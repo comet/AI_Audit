@@ -1,0 +1,1001 @@
+complaint_id,customer_id,complaint_date,channel,complaint_category,complaint_subcategory,description,transaction_id,amount_affected,currency,priority,status,resolution_date,handling_team,satisfaction_score
+C00001,CUST14165,15/12/2024,ATM,Erroneous Deduction,Double Debit,Double Debit reported via atm,,0,KES,High,Resolved,20/12/2024,Finance Ops,5
+C00002,CUST68878,08/01/2025,Call Center,Delay,Card Delivery Delay,Card Delivery Delay reported via call center,TXN857787,46462,KES,High,In Progress,,IT Operations,
+C00003,CUST22156,15/12/2024,Online Banking,System Error,Login Error,Login Error reported via online banking,,0,KES,Medium,In Progress,,Operations,
+C00004,CUST92397,26/12/2024,Online Banking,Erroneous Deduction,Incorrect Fees,Incorrect Fees reported via online banking,,0,KES,High,Resolved,31/12/2024,IT Operations,4
+C00005,CUST59823,26/12/2024,Mobile App,System Error,ATM Failure,ATM Failure reported via mobile app,,0,KES,High,In Progress,,Finance Ops,
+C00006,CUST80010,04/01/2025,Online Banking,Erroneous Deduction,Double Debit,Double Debit reported via online banking,,0,KES,Medium,Resolved,09/01/2025,Operations,3
+C00007,CUST62581,20/12/2024,Online Banking,Customer Service Failure,Long Wait Time,Long Wait Time reported via online banking,,0,KES,Medium,Resolved,21/12/2024,Branch Operations,4
+C00008,CUST86622,21/12/2024,Branch,Erroneous Deduction,Double Debit,Double Debit reported via branch,TXN836603,9863,KES,Critical,Resolved,23/12/2024,Customer Experience,4
+C00009,CUST99192,02/01/2025,ATM,Customer Service Failure,Long Wait Time,Long Wait Time reported via atm,,0,KES,High,Resolved,04/01/2025,Finance Ops,3
+C00010,CUST99353,17/12/2024,Call Center,Customer Service Failure,Long Wait Time,Long Wait Time reported via call center,,0,KES,High,In Progress,,Customer Experience,
+C00011,CUST91959,23/12/2024,Online Banking,Erroneous Deduction,Double Debit,Double Debit reported via online banking,TXN931225,47823,KES,Medium,Resolved,25/12/2024,Customer Experience,2
+C00012,CUST88504,04/01/2025,Online Banking,System Error,App Crash,App Crash reported via online banking,,0,KES,High,In Progress,,Finance Ops,
+C00013,CUST73699,15/12/2024,Online Banking,Delay,Complaint Handling Delay,Complaint Handling Delay reported via online banking,,0,KES,Low,In Progress,,Finance Ops,
+C00014,CUST50857,01/01/2025,Branch,System Error,App Crash,App Crash reported via branch,TXN855521,40253,KES,Medium,Resolved,06/01/2025,Branch Operations,3
+C00015,CUST87128,04/01/2025,Call Center,Erroneous Deduction,Phantom Debit,Phantom Debit reported via call center,,0,KES,Medium,Resolved,09/01/2025,Customer Experience,3
+C00016,CUST80678,06/01/2025,Mobile App,Delay,Transaction Delay,Transaction Delay reported via mobile app,TXN975368,16097,KES,Critical,Resolved,10/01/2025,IT Operations,3
+C00017,CUST17100,14/01/2025,Branch,System Error,App Crash,App Crash reported via branch,TXN911038,28749,KES,Medium,Resolved,18/01/2025,Customer Experience,5
+C00018,CUST28373,04/01/2025,Branch,Delay,Transaction Delay,Transaction Delay reported via branch,,0,KES,Critical,Resolved,09/01/2025,Operations,5
+C00019,CUST95477,23/12/2024,Mobile App,Customer Service Failure,Rude Staff,Rude Staff reported via mobile app,,0,KES,Critical,In Progress,,Customer Experience,
+C00020,CUST10282,15/12/2024,ATM,Delay,Transaction Delay,Transaction Delay reported via atm,,0,KES,High,Resolved,17/12/2024,Customer Experience,5
+C00021,CUST51104,23/12/2024,Branch,Customer Service Failure,Long Wait Time,Long Wait Time reported via branch,TXN857068,12945,KES,High,Resolved,24/12/2024,Branch Operations,2
+C00022,CUST25713,14/01/2025,Mobile App,System Error,App Crash,App Crash reported via mobile app,,0,KES,Low,Resolved,16/01/2025,Branch Operations,5
+C00023,CUST41285,02/01/2025,Call Center,System Error,ATM Failure,ATM Failure reported via call center,TXN868358,34761,KES,High,Resolved,04/01/2025,IT Operations,4
+C00024,CUST76307,19/12/2024,Online Banking,Erroneous Deduction,Phantom Debit,Phantom Debit reported via online banking,,0,KES,Low,Resolved,20/12/2024,IT Operations,3
+C00025,CUST95717,26/12/2024,Online Banking,Delay,Transaction Delay,Transaction Delay reported via online banking,TXN960347,46607,KES,Medium,In Progress,,Operations,
+C00026,CUST45697,01/01/2025,Mobile App,Erroneous Deduction,Incorrect Fees,Incorrect Fees reported via mobile app,,0,KES,Medium,In Progress,,Finance Ops,
+C00027,CUST93136,21/12/2024,Online Banking,Erroneous Deduction,Double Debit,Double Debit reported via online banking,,0,KES,High,In Progress,,Branch Operations,
+C00028,CUST24663,23/12/2024,Online Banking,Delay,Transaction Delay,Transaction Delay reported via online banking,TXN944619,49077,KES,High,Resolved,27/12/2024,Finance Ops,2
+C00029,CUST99399,07/01/2025,Call Center,Delay,Complaint Handling Delay,Complaint Handling Delay reported via call center,TXN810458,20702,KES,Medium,Resolved,10/01/2025,Branch Operations,3
+C00030,CUST33509,06/01/2025,Call Center,System Error,Login Error,Login Error reported via call center,,0,KES,Critical,Resolved,10/01/2025,Finance Ops,2
+C00031,CUST71694,25/12/2024,ATM,Customer Service Failure,No Follow-up,No Follow-up reported via atm,,0,KES,Medium,In Progress,,Operations,
+C00032,CUST94080,12/01/2025,ATM,System Error,Failed Reversal,Failed Reversal reported via atm,TXN818198,22012,KES,Low,Resolved,15/01/2025,Finance Ops,4
+C00033,CUST24208,01/01/2025,Mobile App,Erroneous Deduction,Double Debit,Double Debit reported via mobile app,,0,KES,Medium,In Progress,,Operations,
+C00034,CUST67154,26/12/2024,Call Center,Erroneous Deduction,Phantom Debit,Phantom Debit reported via call center,TXN811635,12957,KES,Medium,In Progress,,Branch Operations,
+C00035,CUST26334,13/01/2025,Branch,Delay,Complaint Handling Delay,Complaint Handling Delay reported via branch,TXN973903,41339,KES,Critical,In Progress,,IT Operations,
+C00036,CUST98777,24/12/2024,Branch,Erroneous Deduction,Incorrect Fees,Incorrect Fees reported via branch,,0,KES,High,Resolved,28/12/2024,Operations,5
+C00037,CUST98555,20/12/2024,Call Center,Erroneous Deduction,Phantom Debit,Phantom Debit reported via call center,TXN921893,38509,KES,Medium,Resolved,24/12/2024,IT Operations,5
+C00038,CUST39444,12/01/2025,Mobile App,Delay,Card Delivery Delay,Card Delivery Delay reported via mobile app,,0,KES,High,Resolved,14/01/2025,Operations,4
+C00039,CUST85454,19/12/2024,ATM,Delay,Transaction Delay,Transaction Delay reported via atm,TXN965089,30346,KES,High,In Progress,,Customer Experience,
+C00040,CUST33053,11/01/2025,ATM,System Error,Login Error,Login Error reported via atm,,0,KES,High,Resolved,15/01/2025,Finance Ops,3
+C00041,CUST68008,31/12/2024,Call Center,Customer Service Failure,Rude Staff,Rude Staff reported via call center,TXN975001,9238,KES,Critical,Resolved,05/01/2025,Finance Ops,4
+C00042,CUST92149,31/12/2024,Branch,Customer Service Failure,No Follow-up,No Follow-up reported via branch,,0,KES,High,Resolved,03/01/2025,Finance Ops,5
+C00043,CUST40311,12/01/2025,Online Banking,Delay,Card Delivery Delay,Card Delivery Delay reported via online banking,,0,KES,Medium,Resolved,14/01/2025,Finance Ops,3
+C00044,CUST86556,19/12/2024,Branch,System Error,ATM Failure,ATM Failure reported via branch,,0,KES,Medium,Resolved,23/12/2024,Customer Experience,5
+C00045,CUST45774,15/12/2024,Mobile App,Customer Service Failure,Long Wait Time,Long Wait Time reported via mobile app,,0,KES,Medium,Resolved,19/12/2024,Operations,3
+C00046,CUST61645,15/12/2024,Branch,Customer Service Failure,Long Wait Time,Long Wait Time reported via branch,,0,KES,Critical,In Progress,,Finance Ops,
+C00047,CUST52840,15/12/2024,Branch,Delay,Card Delivery Delay,Card Delivery Delay reported via branch,TXN885813,17549,KES,Critical,Resolved,17/12/2024,Finance Ops,5
+C00048,CUST95215,27/12/2024,Online Banking,Erroneous Deduction,Phantom Debit,Phantom Debit reported via online banking,TXN858778,3913,KES,High,In Progress,,IT Operations,
+C00049,CUST83920,15/01/2025,ATM,Delay,Transaction Delay,Transaction Delay reported via atm,,0,KES,Critical,Resolved,19/01/2025,Finance Ops,2
+C00050,CUST50768,29/12/2024,ATM,Erroneous Deduction,Phantom Debit,Phantom Debit reported via atm,,0,KES,High,In Progress,,Branch Operations,
+C00051,CUST99687,05/01/2025,Branch,System Error,Login Error,Login Error reported via branch,,0,KES,Low,Resolved,06/01/2025,Finance Ops,4
+C00052,CUST23833,18/12/2024,Call Center,Delay,Complaint Handling Delay,Complaint Handling Delay reported via call center,TXN803316,42937,KES,High,Resolved,22/12/2024,Customer Experience,5
+C00053,CUST70931,26/12/2024,ATM,Customer Service Failure,No Follow-up,No Follow-up reported via atm,TXN961457,43128,KES,Medium,Resolved,31/12/2024,Customer Experience,5
+C00054,CUST54092,02/01/2025,ATM,Erroneous Deduction,Phantom Debit,Phantom Debit reported via atm,TXN949382,49683,KES,Medium,Resolved,07/01/2025,IT Operations,5
+C00055,CUST21221,10/01/2025,ATM,Delay,Complaint Handling Delay,Complaint Handling Delay reported via atm,TXN945697,39569,KES,High,Resolved,11/01/2025,Operations,3
+C00056,CUST50135,11/01/2025,Branch,System Error,App Crash,App Crash reported via branch,,0,KES,High,Resolved,15/01/2025,Customer Experience,3
+C00057,CUST69473,26/12/2024,Call Center,Customer Service Failure,No Follow-up,No Follow-up reported via call center,TXN984249,22178,KES,High,In Progress,,Operations,
+C00058,CUST73464,23/12/2024,ATM,System Error,ATM Failure,ATM Failure reported via atm,,0,KES,Medium,Resolved,25/12/2024,Operations,3
+C00059,CUST17146,02/01/2025,ATM,Erroneous Deduction,Double Debit,Double Debit reported via atm,,0,KES,Medium,Resolved,05/01/2025,Operations,2
+C00060,CUST72616,19/12/2024,Mobile App,Customer Service Failure,Rude Staff,Rude Staff reported via mobile app,,0,KES,Medium,Resolved,20/12/2024,Branch Operations,4
+C00061,CUST83147,06/01/2025,Mobile App,System Error,Login Error,Login Error reported via mobile app,TXN822329,10277,KES,High,Resolved,08/01/2025,Branch Operations,2
+C00062,CUST89905,03/01/2025,Branch,System Error,Login Error,Login Error reported via branch,TXN949062,28603,KES,Medium,Resolved,08/01/2025,Customer Experience,2
+C00063,CUST69048,18/12/2024,Online Banking,System Error,App Crash,App Crash reported via online banking,,0,KES,Medium,Resolved,19/12/2024,IT Operations,5
+C00064,CUST40595,30/12/2024,ATM,Erroneous Deduction,Double Debit,Double Debit reported via atm,,0,KES,High,In Progress,,Operations,
+C00065,CUST31747,04/01/2025,Mobile App,System Error,Login Error,Login Error reported via mobile app,,0,KES,Medium,Resolved,05/01/2025,Branch Operations,2
+C00066,CUST66626,03/01/2025,Mobile App,Erroneous Deduction,Phantom Debit,Phantom Debit reported via mobile app,TXN914755,18341,KES,High,Resolved,04/01/2025,Customer Experience,2
+C00067,CUST98117,03/01/2025,Mobile App,Erroneous Deduction,Double Debit,Double Debit reported via mobile app,,0,KES,Critical,In Progress,,Finance Ops,
+C00068,CUST74451,02/01/2025,Branch,Delay,Transaction Delay,Transaction Delay reported via branch,TXN966405,12394,KES,High,In Progress,,Branch Operations,
+C00069,CUST74942,30/12/2024,Online Banking,Erroneous Deduction,Phantom Debit,Phantom Debit reported via online banking,TXN981842,22114,KES,High,In Progress,,Operations,
+C00070,CUST64165,27/12/2024,Mobile App,Delay,Complaint Handling Delay,Complaint Handling Delay reported via mobile app,,0,KES,Medium,Resolved,01/01/2025,Operations,5
+C00071,CUST13783,13/01/2025,Branch,System Error,Login Error,Login Error reported via branch,TXN983042,19376,KES,Medium,Resolved,17/01/2025,IT Operations,2
+C00072,CUST94896,03/01/2025,Online Banking,System Error,App Crash,App Crash reported via online banking,,0,KES,Low,Resolved,07/01/2025,Branch Operations,2
+C00073,CUST28958,30/12/2024,Online Banking,Erroneous Deduction,Incorrect Fees,Incorrect Fees reported via online banking,TXN944510,16473,KES,Critical,In Progress,,Customer Experience,
+C00074,CUST47072,03/01/2025,Online Banking,System Error,ATM Failure,ATM Failure reported via online banking,,0,KES,Medium,In Progress,,Customer Experience,
+C00075,CUST41300,02/01/2025,Branch,Customer Service Failure,Rude Staff,Rude Staff reported via branch,TXN919365,36114,KES,High,Resolved,05/01/2025,Branch Operations,3
+C00076,CUST74923,22/12/2024,Online Banking,Customer Service Failure,Rude Staff,Rude Staff reported via online banking,,0,KES,High,In Progress,,Customer Experience,
+C00077,CUST19807,19/12/2024,Branch,Erroneous Deduction,Double Debit,Double Debit reported via branch,,0,KES,High,Resolved,23/12/2024,IT Operations,3
+C00078,CUST92155,23/12/2024,Branch,Erroneous Deduction,Incorrect Fees,Incorrect Fees reported via branch,TXN883010,35471,KES,Critical,In Progress,,IT Operations,
+C00079,CUST66881,30/12/2024,Mobile App,Delay,Card Delivery Delay,Card Delivery Delay reported via mobile app,,0,KES,High,In Progress,,Finance Ops,
+C00080,CUST29080,04/01/2025,ATM,Delay,Complaint Handling Delay,Complaint Handling Delay reported via atm,TXN893969,4177,KES,Critical,Resolved,07/01/2025,Operations,5
+C00081,CUST40433,11/01/2025,ATM,Delay,Transaction Delay,Transaction Delay reported via atm,,0,KES,High,Resolved,15/01/2025,IT Operations,3
+C00082,CUST87014,23/12/2024,Mobile App,Customer Service Failure,Long Wait Time,Long Wait Time reported via mobile app,,0,KES,Critical,Resolved,27/12/2024,Customer Experience,4
+C00083,CUST59986,28/12/2024,Online Banking,Erroneous Deduction,Phantom Debit,Phantom Debit reported via online banking,,0,KES,Critical,In Progress,,Finance Ops,
+C00084,CUST89482,02/01/2025,Online Banking,Erroneous Deduction,Incorrect Fees,Incorrect Fees reported via online banking,,0,KES,Critical,Resolved,07/01/2025,IT Operations,2
+C00085,CUST50492,24/12/2024,ATM,System Error,Failed Reversal,Failed Reversal reported via atm,,0,KES,High,Resolved,25/12/2024,Finance Ops,2
+C00086,CUST80701,16/12/2024,ATM,Erroneous Deduction,Incorrect Fees,Incorrect Fees reported via atm,,0,KES,Critical,Resolved,18/12/2024,IT Operations,3
+C00087,CUST28449,26/12/2024,Online Banking,Erroneous Deduction,Double Debit,Double Debit reported via online banking,,0,KES,Critical,Resolved,30/12/2024,Customer Experience,2
+C00088,CUST98188,22/12/2024,Online Banking,Customer Service Failure,No Follow-up,No Follow-up reported via online banking,,0,KES,High,Resolved,26/12/2024,IT Operations,4
+C00089,CUST93283,23/12/2024,Online Banking,Customer Service Failure,No Follow-up,No Follow-up reported via online banking,TXN959929,41102,KES,High,Resolved,25/12/2024,IT Operations,2
+C00090,CUST80457,24/12/2024,ATM,Customer Service Failure,Rude Staff,Rude Staff reported via atm,,0,KES,Critical,Resolved,25/12/2024,IT Operations,3
+C00091,CUST38477,12/01/2025,Call Center,System Error,Login Error,Login Error reported via call center,TXN873332,32569,KES,Critical,Resolved,13/01/2025,Finance Ops,4
+C00092,CUST69600,22/12/2024,Online Banking,Erroneous Deduction,Double Debit,Double Debit reported via online banking,TXN872320,4468,KES,Critical,Resolved,24/12/2024,Branch Operations,2
+C00093,CUST82641,08/01/2025,Online Banking,Delay,Transaction Delay,Transaction Delay reported via online banking,,0,KES,Critical,In Progress,,Finance Ops,
+C00094,CUST80807,08/01/2025,ATM,Delay,Complaint Handling Delay,Complaint Handling Delay reported via atm,,0,KES,Low,In Progress,,Branch Operations,
+C00095,CUST32838,20/12/2024,Mobile App,Delay,Card Delivery Delay,Card Delivery Delay reported via mobile app,TXN804136,16093,KES,Low,In Progress,,Finance Ops,
+C00096,CUST69245,19/12/2024,Mobile App,Customer Service Failure,No Follow-up,No Follow-up reported via mobile app,,0,KES,High,In Progress,,IT Operations,
+C00097,CUST65872,03/01/2025,Call Center,Delay,Card Delivery Delay,Card Delivery Delay reported via call center,TXN905281,4486,KES,High,In Progress,,Operations,
+C00098,CUST69469,30/12/2024,Mobile App,Customer Service Failure,Rude Staff,Rude Staff reported via mobile app,TXN899851,18523,KES,High,Resolved,04/01/2025,Operations,4
+C00099,CUST69441,28/12/2024,Mobile App,Delay,Card Delivery Delay,Card Delivery Delay reported via mobile app,,0,KES,High,Resolved,01/01/2025,Branch Operations,4
+C00100,CUST22219,18/12/2024,Online Banking,Erroneous Deduction,Phantom Debit,Phantom Debit reported via online banking,,0,KES,Medium,Resolved,19/12/2024,Operations,2
+C00101,CUST47700,26/12/2024,Call Center,System Error,ATM Failure,ATM Failure reported via call center,TXN974415,27422,KES,High,Resolved,30/12/2024,Branch Operations,2
+C00102,CUST46512,26/12/2024,Call Center,Delay,Card Delivery Delay,Card Delivery Delay reported via call center,TXN945821,7592,KES,Medium,Resolved,29/12/2024,Finance Ops,2
+C00103,CUST10800,28/12/2024,Online Banking,Delay,Card Delivery Delay,Card Delivery Delay reported via online banking,TXN892018,20749,KES,Medium,In Progress,,IT Operations,
+C00104,CUST58503,07/01/2025,ATM,System Error,ATM Failure,ATM Failure reported via atm,TXN918920,25154,KES,Low,Resolved,10/01/2025,IT Operations,3
+C00105,CUST89570,25/12/2024,ATM,Delay,Transaction Delay,Transaction Delay reported via atm,TXN916159,5846,KES,High,Resolved,29/12/2024,Finance Ops,5
+C00106,CUST38903,23/12/2024,Online Banking,System Error,ATM Failure,ATM Failure reported via online banking,TXN938132,39371,KES,Medium,Resolved,26/12/2024,Customer Experience,2
+C00107,CUST25726,03/01/2025,ATM,Delay,Transaction Delay,Transaction Delay reported via atm,TXN886015,17245,KES,Critical,In Progress,,Operations,
+C00108,CUST67176,11/01/2025,Branch,Delay,Transaction Delay,Transaction Delay reported via branch,TXN818894,44281,KES,High,Resolved,15/01/2025,Branch Operations,2
+C00109,CUST91018,06/01/2025,Call Center,System Error,Login Error,Login Error reported via call center,TXN805467,8048,KES,High,Resolved,09/01/2025,Customer Experience,3
+C00110,CUST53655,26/12/2024,Mobile App,Delay,Complaint Handling Delay,Complaint Handling Delay reported via mobile app,TXN881336,5654,KES,High,Resolved,29/12/2024,Finance Ops,3
+C00111,CUST29194,17/12/2024,Call Center,Delay,Card Delivery Delay,Card Delivery Delay reported via call center,,0,KES,Critical,Resolved,19/12/2024,Finance Ops,2
+C00112,CUST92210,20/12/2024,ATM,System Error,ATM Failure,ATM Failure reported via atm,TXN978555,38476,KES,High,Resolved,25/12/2024,Customer Experience,4
+C00113,CUST69233,29/12/2024,Branch,Delay,Complaint Handling Delay,Complaint Handling Delay reported via branch,,0,KES,High,Resolved,01/01/2025,Operations,5
+C00114,CUST52143,10/01/2025,Mobile App,System Error,ATM Failure,ATM Failure reported via mobile app,,0,KES,High,Resolved,14/01/2025,Branch Operations,3
+C00115,CUST76132,31/12/2024,Branch,System Error,ATM Failure,ATM Failure reported via branch,,0,KES,Critical,In Progress,,IT Operations,
+C00116,CUST98984,16/12/2024,Branch,System Error,Login Error,Login Error reported via branch,TXN901558,24935,KES,High,Resolved,20/12/2024,Branch Operations,4
+C00117,CUST86380,04/01/2025,Online Banking,Erroneous Deduction,Double Debit,Double Debit reported via online banking,,0,KES,High,Resolved,07/01/2025,IT Operations,2
+C00118,CUST53054,26/12/2024,Branch,Erroneous Deduction,Incorrect Fees,Incorrect Fees reported via branch,TXN968687,20788,KES,High,In Progress,,Finance Ops,
+C00119,CUST35166,31/12/2024,Branch,Delay,Card Delivery Delay,Card Delivery Delay reported via branch,,0,KES,Medium,Resolved,03/01/2025,Branch Operations,5
+C00120,CUST88282,07/01/2025,Online Banking,Delay,Transaction Delay,Transaction Delay reported via online banking,,0,KES,High,Resolved,10/01/2025,IT Operations,3
+C00121,CUST40671,20/12/2024,Branch,System Error,App Crash,App Crash reported via branch,TXN960063,16066,KES,High,Resolved,23/12/2024,IT Operations,5
+C00122,CUST31241,24/12/2024,Online Banking,Customer Service Failure,Rude Staff,Rude Staff reported via online banking,TXN931833,18966,KES,Critical,Resolved,29/12/2024,Branch Operations,5
+C00123,CUST31012,03/01/2025,Mobile App,System Error,Failed Reversal,Failed Reversal reported via mobile app,,0,KES,Critical,Resolved,06/01/2025,Customer Experience,2
+C00124,CUST61964,31/12/2024,Mobile App,System Error,Login Error,Login Error reported via mobile app,TXN813960,2247,KES,Critical,In Progress,,Finance Ops,
+C00125,CUST28035,22/12/2024,Online Banking,Customer Service Failure,Rude Staff,Rude Staff reported via online banking,TXN838285,47338,KES,Low,In Progress,,Finance Ops,
+C00126,CUST29597,12/01/2025,Branch,Delay,Card Delivery Delay,Card Delivery Delay reported via branch,TXN856532,1745,KES,High,In Progress,,Customer Experience,
+C00127,CUST88215,03/01/2025,Online Banking,Customer Service Failure,Rude Staff,Rude Staff reported via online banking,TXN816464,28013,KES,Medium,Resolved,04/01/2025,Finance Ops,5
+C00128,CUST18870,04/01/2025,Online Banking,System Error,App Crash,App Crash reported via online banking,TXN849103,37899,KES,Low,Resolved,05/01/2025,Customer Experience,4
+C00129,CUST56805,01/01/2025,Branch,Delay,Complaint Handling Delay,Complaint Handling Delay reported via branch,,0,KES,High,In Progress,,IT Operations,
+C00130,CUST92802,26/12/2024,Call Center,System Error,ATM Failure,ATM Failure reported via call center,,0,KES,Medium,Resolved,30/12/2024,Operations,5
+C00131,CUST77552,07/01/2025,Branch,Delay,Card Delivery Delay,Card Delivery Delay reported via branch,,0,KES,Medium,Resolved,10/01/2025,IT Operations,4
+C00132,CUST26315,01/01/2025,Mobile App,Customer Service Failure,Long Wait Time,Long Wait Time reported via mobile app,TXN871622,3632,KES,Medium,In Progress,,Finance Ops,
+C00133,CUST20828,28/12/2024,Branch,Customer Service Failure,No Follow-up,No Follow-up reported via branch,TXN896297,45855,KES,Medium,Resolved,02/01/2025,Customer Experience,4
+C00134,CUST31842,17/12/2024,ATM,Customer Service Failure,No Follow-up,No Follow-up reported via atm,TXN880346,21990,KES,Medium,Resolved,21/12/2024,Branch Operations,5
+C00135,CUST77251,26/12/2024,Online Banking,Customer Service Failure,Rude Staff,Rude Staff reported via online banking,,0,KES,Critical,Resolved,30/12/2024,Branch Operations,4
+C00136,CUST89310,20/12/2024,Call Center,Delay,Transaction Delay,Transaction Delay reported via call center,TXN894935,42781,KES,Low,Resolved,24/12/2024,Customer Experience,2
+C00137,CUST24869,12/01/2025,Branch,System Error,Failed Reversal,Failed Reversal reported via branch,TXN970278,26585,KES,High,Resolved,15/01/2025,IT Operations,3
+C00138,CUST74382,07/01/2025,Call Center,System Error,Login Error,Login Error reported via call center,,0,KES,Medium,Resolved,12/01/2025,IT Operations,4
+C00139,CUST18511,07/01/2025,ATM,Delay,Complaint Handling Delay,Complaint Handling Delay reported via atm,TXN986001,21444,KES,Critical,In Progress,,Customer Experience,
+C00140,CUST13445,24/12/2024,ATM,Erroneous Deduction,Double Debit,Double Debit reported via atm,,0,KES,High,Resolved,26/12/2024,Operations,5
+C00141,CUST63665,02/01/2025,Call Center,Erroneous Deduction,Phantom Debit,Phantom Debit reported via call center,TXN987939,20769,KES,High,Resolved,06/01/2025,Finance Ops,5
+C00142,CUST75911,17/12/2024,Mobile App,System Error,Failed Reversal,Failed Reversal reported via mobile app,,0,KES,High,Resolved,19/12/2024,Customer Experience,5
+C00143,CUST20336,16/12/2024,ATM,Delay,Card Delivery Delay,Card Delivery Delay reported via atm,,0,KES,Medium,Resolved,19/12/2024,Operations,4
+C00144,CUST83874,04/01/2025,Online Banking,Erroneous Deduction,Double Debit,Double Debit reported via online banking,,0,KES,High,Resolved,06/01/2025,Branch Operations,4
+C00145,CUST75278,05/01/2025,Call Center,Delay,Transaction Delay,Transaction Delay reported via call center,,0,KES,High,In Progress,,Operations,
+C00146,CUST19564,01/01/2025,Online Banking,Erroneous Deduction,Incorrect Fees,Incorrect Fees reported via online banking,TXN918893,27113,KES,Medium,In Progress,,Customer Experience,
+C00147,CUST27139,20/12/2024,Branch,Customer Service Failure,Long Wait Time,Long Wait Time reported via branch,TXN992466,20985,KES,Medium,Resolved,23/12/2024,Customer Experience,5
+C00148,CUST60351,31/12/2024,ATM,Delay,Complaint Handling Delay,Complaint Handling Delay reported via atm,,0,KES,Medium,Resolved,01/01/2025,Customer Experience,4
+C00149,CUST50441,28/12/2024,Online Banking,System Error,App Crash,App Crash reported via online banking,TXN934932,10942,KES,High,Resolved,01/01/2025,Branch Operations,5
+C00150,CUST47453,17/12/2024,Branch,Customer Service Failure,No Follow-up,No Follow-up reported via branch,TXN929733,3812,KES,Medium,Resolved,22/12/2024,Finance Ops,5
+C00151,CUST57516,18/12/2024,Online Banking,Customer Service Failure,Rude Staff,Rude Staff reported via online banking,,0,KES,High,Resolved,23/12/2024,Operations,3
+C00152,CUST26864,17/12/2024,Branch,Customer Service Failure,No Follow-up,No Follow-up reported via branch,,0,KES,Medium,In Progress,,Branch Operations,
+C00153,CUST15100,27/12/2024,Call Center,Erroneous Deduction,Phantom Debit,Phantom Debit reported via call center,TXN931092,33865,KES,High,Resolved,28/12/2024,Operations,2
+C00154,CUST87820,10/01/2025,ATM,System Error,Login Error,Login Error reported via atm,TXN842598,40678,KES,Critical,Resolved,14/01/2025,Branch Operations,4
+C00155,CUST92478,31/12/2024,Call Center,Customer Service Failure,No Follow-up,No Follow-up reported via call center,,0,KES,High,Resolved,04/01/2025,Operations,4
+C00156,CUST85047,12/01/2025,Mobile App,System Error,App Crash,App Crash reported via mobile app,TXN838738,47763,KES,High,Resolved,14/01/2025,Branch Operations,2
+C00157,CUST18163,18/12/2024,Branch,System Error,ATM Failure,ATM Failure reported via branch,TXN931548,13862,KES,High,Resolved,23/12/2024,Operations,5
+C00158,CUST56437,31/12/2024,Branch,System Error,Failed Reversal,Failed Reversal reported via branch,TXN943202,30624,KES,Medium,In Progress,,Branch Operations,
+C00159,CUST37168,04/01/2025,Branch,Erroneous Deduction,Incorrect Fees,Incorrect Fees reported via branch,,0,KES,Critical,Resolved,07/01/2025,Finance Ops,4
+C00160,CUST85166,30/12/2024,Online Banking,Erroneous Deduction,Phantom Debit,Phantom Debit reported via online banking,TXN831948,18421,KES,Critical,In Progress,,Branch Operations,
+C00161,CUST95979,27/12/2024,ATM,Customer Service Failure,Long Wait Time,Long Wait Time reported via atm,TXN915966,5679,KES,Low,In Progress,,Operations,
+C00162,CUST41779,30/12/2024,Call Center,System Error,App Crash,App Crash reported via call center,,0,KES,Critical,Resolved,04/01/2025,Operations,3
+C00163,CUST82135,13/01/2025,ATM,Delay,Card Delivery Delay,Card Delivery Delay reported via atm,,0,KES,Medium,Resolved,15/01/2025,IT Operations,2
+C00164,CUST94659,20/12/2024,Branch,Customer Service Failure,No Follow-up,No Follow-up reported via branch,TXN874819,19324,KES,High,In Progress,,Customer Experience,
+C00165,CUST34420,06/01/2025,Mobile App,Delay,Card Delivery Delay,Card Delivery Delay reported via mobile app,TXN929861,2881,KES,High,In Progress,,Finance Ops,
+C00166,CUST94058,24/12/2024,Online Banking,Delay,Transaction Delay,Transaction Delay reported via online banking,TXN919104,22457,KES,High,In Progress,,Branch Operations,
+C00167,CUST11846,30/12/2024,Online Banking,System Error,Login Error,Login Error reported via online banking,TXN969944,48414,KES,Critical,Resolved,02/01/2025,Finance Ops,3
+C00168,CUST28430,24/12/2024,Call Center,System Error,App Crash,App Crash reported via call center,TXN975441,6184,KES,Critical,Resolved,25/12/2024,Customer Experience,3
+C00169,CUST44282,22/12/2024,Branch,Delay,Complaint Handling Delay,Complaint Handling Delay reported via branch,TXN952688,22102,KES,High,Resolved,27/12/2024,Finance Ops,2
+C00170,CUST58174,22/12/2024,Mobile App,Delay,Card Delivery Delay,Card Delivery Delay reported via mobile app,TXN980955,33433,KES,Medium,Resolved,23/12/2024,Customer Experience,4
+C00171,CUST42435,22/12/2024,ATM,System Error,Login Error,Login Error reported via atm,TXN998534,27752,KES,High,Resolved,27/12/2024,Customer Experience,3
+C00172,CUST85065,03/01/2025,Branch,Delay,Card Delivery Delay,Card Delivery Delay reported via branch,,0,KES,High,Resolved,04/01/2025,Branch Operations,3
+C00173,CUST76895,20/12/2024,Branch,Erroneous Deduction,Incorrect Fees,Incorrect Fees reported via branch,,0,KES,High,In Progress,,IT Operations,
+C00174,CUST43352,16/12/2024,Call Center,Customer Service Failure,Rude Staff,Rude Staff reported via call center,TXN989603,30802,KES,High,Resolved,17/12/2024,Customer Experience,5
+C00175,CUST47629,21/12/2024,Branch,Delay,Transaction Delay,Transaction Delay reported via branch,,0,KES,High,Resolved,25/12/2024,Operations,2
+C00176,CUST99486,19/12/2024,Branch,Customer Service Failure,Long Wait Time,Long Wait Time reported via branch,,0,KES,Critical,In Progress,,Customer Experience,
+C00177,CUST49107,01/01/2025,Mobile App,System Error,Failed Reversal,Failed Reversal reported via mobile app,,0,KES,Critical,Resolved,02/01/2025,Finance Ops,2
+C00178,CUST96533,01/01/2025,Branch,Customer Service Failure,No Follow-up,No Follow-up reported via branch,,0,KES,Medium,Resolved,02/01/2025,Finance Ops,2
+C00179,CUST62725,15/12/2024,Mobile App,System Error,App Crash,App Crash reported via mobile app,,0,KES,High,Resolved,17/12/2024,IT Operations,2
+C00180,CUST41051,01/01/2025,ATM,System Error,ATM Failure,ATM Failure reported via atm,TXN951381,48440,KES,Critical,Resolved,06/01/2025,Branch Operations,4
+C00181,CUST92050,19/12/2024,Online Banking,System Error,Login Error,Login Error reported via online banking,,0,KES,Low,In Progress,,Operations,
+C00182,CUST34101,01/01/2025,Online Banking,Customer Service Failure,Rude Staff,Rude Staff reported via online banking,TXN839116,27784,KES,High,Resolved,04/01/2025,Customer Experience,5
+C00183,CUST83044,30/12/2024,Online Banking,System Error,App Crash,App Crash reported via online banking,TXN909185,37356,KES,Critical,In Progress,,Finance Ops,
+C00184,CUST80206,27/12/2024,ATM,System Error,Failed Reversal,Failed Reversal reported via atm,,0,KES,High,In Progress,,Operations,
+C00185,CUST72835,21/12/2024,Branch,Delay,Complaint Handling Delay,Complaint Handling Delay reported via branch,,0,KES,High,In Progress,,Branch Operations,
+C00186,CUST61987,10/01/2025,ATM,System Error,ATM Failure,ATM Failure reported via atm,TXN863594,49935,KES,Critical,Resolved,15/01/2025,Finance Ops,3
+C00187,CUST22924,01/01/2025,Branch,Erroneous Deduction,Phantom Debit,Phantom Debit reported via branch,TXN934431,17641,KES,High,Resolved,05/01/2025,Customer Experience,5
+C00188,CUST82523,30/12/2024,Online Banking,Erroneous Deduction,Double Debit,Double Debit reported via online banking,,0,KES,High,Resolved,31/12/2024,Operations,4
+C00189,CUST74044,02/01/2025,ATM,Customer Service Failure,Long Wait Time,Long Wait Time reported via atm,TXN944347,16604,KES,Medium,Resolved,05/01/2025,Finance Ops,4
+C00190,CUST81058,04/01/2025,ATM,Customer Service Failure,Long Wait Time,Long Wait Time reported via atm,,0,KES,Medium,In Progress,,Operations,
+C00191,CUST29795,16/12/2024,Mobile App,Delay,Transaction Delay,Transaction Delay reported via mobile app,,0,KES,High,In Progress,,IT Operations,
+C00192,CUST10866,13/01/2025,Mobile App,System Error,Failed Reversal,Failed Reversal reported via mobile app,TXN804123,32167,KES,High,In Progress,,Branch Operations,
+C00193,CUST78732,28/12/2024,Call Center,Delay,Transaction Delay,Transaction Delay reported via call center,TXN846993,33413,KES,High,Resolved,29/12/2024,Operations,2
+C00194,CUST39603,08/01/2025,Online Banking,System Error,Failed Reversal,Failed Reversal reported via online banking,,0,KES,Low,In Progress,,Customer Experience,
+C00195,CUST75517,17/12/2024,Branch,Delay,Transaction Delay,Transaction Delay reported via branch,,0,KES,Medium,Resolved,19/12/2024,Customer Experience,2
+C00196,CUST99709,04/01/2025,Mobile App,Erroneous Deduction,Incorrect Fees,Incorrect Fees reported via mobile app,TXN871065,45869,KES,Critical,Resolved,05/01/2025,Branch Operations,2
+C00197,CUST83919,01/01/2025,Online Banking,Delay,Transaction Delay,Transaction Delay reported via online banking,TXN820168,49799,KES,Critical,Resolved,04/01/2025,IT Operations,3
+C00198,CUST67290,11/01/2025,ATM,System Error,Login Error,Login Error reported via atm,,0,KES,High,In Progress,,IT Operations,
+C00199,CUST56636,06/01/2025,Online Banking,System Error,Login Error,Login Error reported via online banking,TXN859805,30027,KES,High,In Progress,,IT Operations,
+C00200,CUST30214,27/12/2024,Call Center,Customer Service Failure,Rude Staff,Rude Staff reported via call center,,0,KES,Low,Resolved,28/12/2024,Customer Experience,4
+C00201,CUST27367,04/01/2025,Online Banking,System Error,Login Error,Login Error reported via online banking,TXN894350,20702,KES,Medium,Resolved,07/01/2025,Operations,2
+C00202,CUST64238,11/01/2025,Mobile App,System Error,Login Error,Login Error reported via mobile app,TXN900987,39620,KES,Low,Resolved,12/01/2025,IT Operations,4
+C00203,CUST66973,17/12/2024,Branch,System Error,App Crash,App Crash reported via branch,,0,KES,Medium,Resolved,18/12/2024,Finance Ops,3
+C00204,CUST70012,24/12/2024,Online Banking,Customer Service Failure,Rude Staff,Rude Staff reported via online banking,,0,KES,Critical,In Progress,,Operations,
+C00205,CUST95332,09/01/2025,Online Banking,Delay,Complaint Handling Delay,Complaint Handling Delay reported via online banking,TXN912883,29350,KES,Medium,In Progress,,Branch Operations,
+C00206,CUST52714,19/12/2024,Call Center,Erroneous Deduction,Phantom Debit,Phantom Debit reported via call center,TXN876401,26599,KES,High,Resolved,23/12/2024,Finance Ops,3
+C00207,CUST67469,27/12/2024,Call Center,Erroneous Deduction,Double Debit,Double Debit reported via call center,,0,KES,High,Resolved,31/12/2024,Finance Ops,3
+C00208,CUST19694,17/12/2024,Branch,Customer Service Failure,No Follow-up,No Follow-up reported via branch,,0,KES,High,Resolved,21/12/2024,Finance Ops,5
+C00209,CUST14818,03/01/2025,Branch,Customer Service Failure,No Follow-up,No Follow-up reported via branch,TXN942513,45831,KES,High,In Progress,,Branch Operations,
+C00210,CUST23886,26/12/2024,ATM,Delay,Transaction Delay,Transaction Delay reported via atm,TXN997311,37411,KES,Medium,Resolved,29/12/2024,Operations,5
+C00211,CUST55215,09/01/2025,Call Center,Delay,Card Delivery Delay,Card Delivery Delay reported via call center,TXN902533,29714,KES,High,Resolved,13/01/2025,Branch Operations,3
+C00212,CUST54966,30/12/2024,Branch,Delay,Complaint Handling Delay,Complaint Handling Delay reported via branch,TXN881760,9784,KES,Medium,In Progress,,IT Operations,
+C00213,CUST25084,21/12/2024,Branch,Customer Service Failure,Long Wait Time,Long Wait Time reported via branch,,0,KES,High,Resolved,24/12/2024,IT Operations,2
+C00214,CUST92543,10/01/2025,ATM,Delay,Card Delivery Delay,Card Delivery Delay reported via atm,TXN921124,22191,KES,High,Resolved,12/01/2025,Finance Ops,5
+C00215,CUST46483,15/01/2025,Mobile App,System Error,Login Error,Login Error reported via mobile app,TXN801166,28651,KES,Critical,Resolved,17/01/2025,Branch Operations,3
+C00216,CUST90125,17/12/2024,ATM,Delay,Card Delivery Delay,Card Delivery Delay reported via atm,TXN938337,17693,KES,Medium,Resolved,20/12/2024,Operations,5
+C00217,CUST25448,18/12/2024,Branch,Erroneous Deduction,Phantom Debit,Phantom Debit reported via branch,,0,KES,Medium,Resolved,20/12/2024,Branch Operations,4
+C00218,CUST93296,06/01/2025,ATM,Delay,Complaint Handling Delay,Complaint Handling Delay reported via atm,TXN910897,38170,KES,Medium,Resolved,08/01/2025,Branch Operations,5
+C00219,CUST73518,04/01/2025,Branch,System Error,App Crash,App Crash reported via branch,,0,KES,Medium,Resolved,07/01/2025,Operations,2
+C00220,CUST38905,11/01/2025,Branch,System Error,Login Error,Login Error reported via branch,,0,KES,High,Resolved,16/01/2025,Customer Experience,2
+C00221,CUST85066,23/12/2024,ATM,System Error,Failed Reversal,Failed Reversal reported via atm,,0,KES,High,In Progress,,Customer Experience,
+C00222,CUST68947,13/01/2025,Branch,System Error,ATM Failure,ATM Failure reported via branch,,0,KES,Medium,Resolved,16/01/2025,Branch Operations,2
+C00223,CUST37082,17/12/2024,ATM,Customer Service Failure,Rude Staff,Rude Staff reported via atm,TXN843511,23478,KES,Critical,Resolved,22/12/2024,Finance Ops,3
+C00224,CUST77425,16/12/2024,Online Banking,Erroneous Deduction,Incorrect Fees,Incorrect Fees reported via online banking,TXN875846,46640,KES,High,Resolved,21/12/2024,Branch Operations,4
+C00225,CUST42447,18/12/2024,Mobile App,System Error,Login Error,Login Error reported via mobile app,,0,KES,Critical,Resolved,20/12/2024,Operations,4
+C00226,CUST58374,27/12/2024,Call Center,Customer Service Failure,Rude Staff,Rude Staff reported via call center,,0,KES,High,Resolved,31/12/2024,Operations,4
+C00227,CUST38551,30/12/2024,Mobile App,Erroneous Deduction,Incorrect Fees,Incorrect Fees reported via mobile app,TXN816601,44025,KES,High,Resolved,04/01/2025,IT Operations,5
+C00228,CUST23051,21/12/2024,Online Banking,Customer Service Failure,Long Wait Time,Long Wait Time reported via online banking,TXN890109,37602,KES,Medium,Resolved,22/12/2024,Operations,2
+C00229,CUST27290,29/12/2024,ATM,Delay,Transaction Delay,Transaction Delay reported via atm,,0,KES,High,In Progress,,Customer Experience,
+C00230,CUST91999,24/12/2024,Mobile App,System Error,Failed Reversal,Failed Reversal reported via mobile app,,0,KES,Medium,Resolved,25/12/2024,Operations,5
+C00231,CUST11217,22/12/2024,Mobile App,Customer Service Failure,No Follow-up,No Follow-up reported via mobile app,,0,KES,Low,Resolved,27/12/2024,IT Operations,5
+C00232,CUST58177,10/01/2025,ATM,Delay,Complaint Handling Delay,Complaint Handling Delay reported via atm,,0,KES,Low,Resolved,11/01/2025,Customer Experience,4
+C00233,CUST37925,19/12/2024,ATM,Customer Service Failure,Rude Staff,Rude Staff reported via atm,,0,KES,High,Resolved,23/12/2024,IT Operations,4
+C00234,CUST56076,19/12/2024,Branch,Customer Service Failure,No Follow-up,No Follow-up reported via branch,,0,KES,Low,Resolved,24/12/2024,Finance Ops,5
+C00235,CUST36928,25/12/2024,Online Banking,System Error,App Crash,App Crash reported via online banking,TXN981004,47763,KES,Medium,Resolved,26/12/2024,IT Operations,4
+C00236,CUST24777,31/12/2024,Online Banking,System Error,Login Error,Login Error reported via online banking,TXN901157,16185,KES,High,In Progress,,IT Operations,
+C00237,CUST71736,15/01/2025,Mobile App,Delay,Card Delivery Delay,Card Delivery Delay reported via mobile app,TXN895790,37749,KES,Critical,Resolved,20/01/2025,Operations,3
+C00238,CUST65518,17/12/2024,Mobile App,Delay,Card Delivery Delay,Card Delivery Delay reported via mobile app,TXN932804,4462,KES,Medium,Resolved,20/12/2024,IT Operations,5
+C00239,CUST86865,17/12/2024,Mobile App,System Error,Failed Reversal,Failed Reversal reported via mobile app,TXN902427,10682,KES,Low,In Progress,,Operations,
+C00240,CUST50539,04/01/2025,Branch,Delay,Complaint Handling Delay,Complaint Handling Delay reported via branch,,0,KES,Low,Resolved,08/01/2025,Finance Ops,2
+C00241,CUST58741,20/12/2024,ATM,Delay,Transaction Delay,Transaction Delay reported via atm,TXN843768,34775,KES,Medium,In Progress,,IT Operations,
+C00242,CUST76949,09/01/2025,Online Banking,Delay,Transaction Delay,Transaction Delay reported via online banking,,0,KES,Medium,Resolved,13/01/2025,Customer Experience,5
+C00243,CUST39937,30/12/2024,ATM,System Error,Failed Reversal,Failed Reversal reported via atm,,0,KES,High,In Progress,,Operations,
+C00244,CUST39427,15/12/2024,ATM,Delay,Transaction Delay,Transaction Delay reported via atm,,0,KES,High,Resolved,16/12/2024,IT Operations,5
+C00245,CUST62550,28/12/2024,Mobile App,Erroneous Deduction,Phantom Debit,Phantom Debit reported via mobile app,,0,KES,Medium,Resolved,30/12/2024,Branch Operations,2
+C00246,CUST70807,12/01/2025,Online Banking,System Error,Failed Reversal,Failed Reversal reported via online banking,TXN947798,13651,KES,High,Resolved,15/01/2025,IT Operations,3
+C00247,CUST10191,30/12/2024,ATM,System Error,App Crash,App Crash reported via atm,TXN966708,35990,KES,Critical,Resolved,31/12/2024,IT Operations,4
+C00248,CUST15754,27/12/2024,ATM,Erroneous Deduction,Double Debit,Double Debit reported via atm,,0,KES,Critical,Resolved,30/12/2024,Branch Operations,2
+C00249,CUST87580,31/12/2024,Online Banking,Customer Service Failure,No Follow-up,No Follow-up reported via online banking,,0,KES,Critical,Resolved,04/01/2025,Customer Experience,2
+C00250,CUST69343,28/12/2024,Online Banking,System Error,App Crash,App Crash reported via online banking,TXN883376,26252,KES,Critical,In Progress,,Operations,
+C00251,CUST37215,17/12/2024,Call Center,System Error,App Crash,App Crash reported via call center,TXN906564,31043,KES,Medium,Resolved,18/12/2024,IT Operations,4
+C00252,CUST29441,29/12/2024,Mobile App,Erroneous Deduction,Double Debit,Double Debit reported via mobile app,,0,KES,Critical,Resolved,31/12/2024,Finance Ops,4
+C00253,CUST82869,08/01/2025,Call Center,System Error,Login Error,Login Error reported via call center,,0,KES,High,Resolved,12/01/2025,IT Operations,5
+C00254,CUST58790,22/12/2024,Mobile App,Delay,Complaint Handling Delay,Complaint Handling Delay reported via mobile app,,0,KES,Medium,Resolved,24/12/2024,Finance Ops,5
+C00255,CUST22055,04/01/2025,Call Center,Delay,Card Delivery Delay,Card Delivery Delay reported via call center,,0,KES,Critical,Resolved,08/01/2025,Operations,3
+C00256,CUST99550,25/12/2024,Branch,Delay,Transaction Delay,Transaction Delay reported via branch,TXN930056,47976,KES,Medium,Resolved,26/12/2024,IT Operations,5
+C00257,CUST64000,26/12/2024,Online Banking,System Error,App Crash,App Crash reported via online banking,,0,KES,High,Resolved,29/12/2024,Operations,5
+C00258,CUST60134,30/12/2024,Online Banking,Delay,Transaction Delay,Transaction Delay reported via online banking,,0,KES,Medium,Resolved,04/01/2025,Customer Experience,2
+C00259,CUST88265,26/12/2024,Branch,Customer Service Failure,No Follow-up,No Follow-up reported via branch,TXN847137,25952,KES,Critical,Resolved,27/12/2024,Operations,4
+C00260,CUST42487,09/01/2025,Call Center,Delay,Complaint Handling Delay,Complaint Handling Delay reported via call center,,0,KES,High,In Progress,,Operations,
+C00261,CUST41005,23/12/2024,Call Center,Delay,Transaction Delay,Transaction Delay reported via call center,,0,KES,Medium,In Progress,,Customer Experience,
+C00262,CUST74282,26/12/2024,Online Banking,Delay,Card Delivery Delay,Card Delivery Delay reported via online banking,TXN942114,12836,KES,High,Resolved,29/12/2024,Branch Operations,3
+C00263,CUST33260,05/01/2025,ATM,Delay,Card Delivery Delay,Card Delivery Delay reported via atm,,0,KES,High,Resolved,07/01/2025,IT Operations,4
+C00264,CUST86810,25/12/2024,ATM,Delay,Transaction Delay,Transaction Delay reported via atm,TXN819013,7769,KES,High,Resolved,28/12/2024,Branch Operations,5
+C00265,CUST83659,09/01/2025,ATM,System Error,App Crash,App Crash reported via atm,TXN845666,43044,KES,High,In Progress,,Customer Experience,
+C00266,CUST33292,03/01/2025,Call Center,Erroneous Deduction,Double Debit,Double Debit reported via call center,,0,KES,Medium,In Progress,,Finance Ops,
+C00267,CUST93839,02/01/2025,Mobile App,Customer Service Failure,No Follow-up,No Follow-up reported via mobile app,,0,KES,High,In Progress,,Finance Ops,
+C00268,CUST11493,30/12/2024,Mobile App,System Error,Failed Reversal,Failed Reversal reported via mobile app,,0,KES,Medium,Resolved,02/01/2025,Finance Ops,5
+C00269,CUST59638,22/12/2024,Online Banking,Delay,Complaint Handling Delay,Complaint Handling Delay reported via online banking,TXN843604,29219,KES,High,Resolved,26/12/2024,IT Operations,5
+C00270,CUST23726,27/12/2024,Call Center,Delay,Complaint Handling Delay,Complaint Handling Delay reported via call center,TXN805263,2689,KES,Medium,Resolved,30/12/2024,Finance Ops,4
+C00271,CUST14062,07/01/2025,Mobile App,System Error,App Crash,App Crash reported via mobile app,TXN984681,22647,KES,Critical,In Progress,,Branch Operations,
+C00272,CUST96585,04/01/2025,ATM,System Error,Login Error,Login Error reported via atm,TXN982765,12950,KES,Medium,Resolved,09/01/2025,IT Operations,4
+C00273,CUST48607,22/12/2024,Branch,Delay,Transaction Delay,Transaction Delay reported via branch,TXN801000,4072,KES,High,Resolved,26/12/2024,Branch Operations,2
+C00274,CUST71727,04/01/2025,Mobile App,Customer Service Failure,Rude Staff,Rude Staff reported via mobile app,TXN830279,5869,KES,Medium,Resolved,07/01/2025,IT Operations,5
+C00275,CUST68428,23/12/2024,Call Center,Delay,Card Delivery Delay,Card Delivery Delay reported via call center,,0,KES,Medium,In Progress,,Customer Experience,
+C00276,CUST80968,12/01/2025,ATM,System Error,Failed Reversal,Failed Reversal reported via atm,,0,KES,High,Resolved,13/01/2025,Operations,4
+C00277,CUST20348,02/01/2025,Branch,System Error,ATM Failure,ATM Failure reported via branch,,0,KES,High,Resolved,06/01/2025,Branch Operations,4
+C00278,CUST65492,16/12/2024,Branch,System Error,ATM Failure,ATM Failure reported via branch,,0,KES,Critical,Resolved,18/12/2024,Finance Ops,2
+C00279,CUST60868,15/01/2025,ATM,System Error,App Crash,App Crash reported via atm,,0,KES,Medium,In Progress,,Branch Operations,
+C00280,CUST29424,01/01/2025,Call Center,Erroneous Deduction,Phantom Debit,Phantom Debit reported via call center,TXN829496,46402,KES,Critical,Resolved,05/01/2025,Customer Experience,3
+C00281,CUST60206,02/01/2025,Call Center,Delay,Transaction Delay,Transaction Delay reported via call center,TXN869241,23035,KES,High,In Progress,,IT Operations,
+C00282,CUST41139,02/01/2025,ATM,Customer Service Failure,Rude Staff,Rude Staff reported via atm,TXN810166,45117,KES,High,Resolved,06/01/2025,Operations,4
+C00283,CUST27614,12/01/2025,Mobile App,System Error,Failed Reversal,Failed Reversal reported via mobile app,TXN982500,18872,KES,Critical,Resolved,13/01/2025,Operations,3
+C00284,CUST17367,29/12/2024,Branch,Erroneous Deduction,Phantom Debit,Phantom Debit reported via branch,TXN994234,14353,KES,High,Resolved,02/01/2025,Branch Operations,4
+C00285,CUST32772,20/12/2024,Call Center,Delay,Complaint Handling Delay,Complaint Handling Delay reported via call center,,0,KES,Medium,In Progress,,Customer Experience,
+C00286,CUST93284,08/01/2025,Mobile App,Delay,Transaction Delay,Transaction Delay reported via mobile app,TXN896561,13548,KES,Low,Resolved,12/01/2025,Customer Experience,5
+C00287,CUST31432,15/12/2024,Branch,System Error,Failed Reversal,Failed Reversal reported via branch,TXN890242,31602,KES,High,In Progress,,Branch Operations,
+C00288,CUST94853,23/12/2024,Mobile App,Delay,Complaint Handling Delay,Complaint Handling Delay reported via mobile app,,0,KES,Low,In Progress,,Customer Experience,
+C00289,CUST72140,08/01/2025,Call Center,System Error,Login Error,Login Error reported via call center,,0,KES,Critical,In Progress,,IT Operations,
+C00290,CUST59345,04/01/2025,ATM,System Error,ATM Failure,ATM Failure reported via atm,TXN911098,47210,KES,High,In Progress,,Operations,
+C00291,CUST10963,29/12/2024,Branch,Erroneous Deduction,Double Debit,Double Debit reported via branch,,0,KES,High,In Progress,,Operations,
+C00292,CUST44229,26/12/2024,Mobile App,Erroneous Deduction,Phantom Debit,Phantom Debit reported via mobile app,TXN872583,42482,KES,Low,In Progress,,Customer Experience,
+C00293,CUST51888,04/01/2025,ATM,Erroneous Deduction,Double Debit,Double Debit reported via atm,TXN973154,39823,KES,High,In Progress,,Branch Operations,
+C00294,CUST54979,15/12/2024,Online Banking,Customer Service Failure,Long Wait Time,Long Wait Time reported via online banking,,0,KES,High,In Progress,,Customer Experience,
+C00295,CUST71706,22/12/2024,Online Banking,Customer Service Failure,No Follow-up,No Follow-up reported via online banking,,0,KES,Medium,Resolved,25/12/2024,Branch Operations,2
+C00296,CUST86751,09/01/2025,Online Banking,Delay,Card Delivery Delay,Card Delivery Delay reported via online banking,TXN886852,20625,KES,Medium,Resolved,12/01/2025,IT Operations,4
+C00297,CUST64146,18/12/2024,Call Center,Customer Service Failure,Rude Staff,Rude Staff reported via call center,,0,KES,Critical,Resolved,22/12/2024,Branch Operations,4
+C00298,CUST51469,07/01/2025,Online Banking,Delay,Transaction Delay,Transaction Delay reported via online banking,,0,KES,Critical,In Progress,,Customer Experience,
+C00299,CUST74169,20/12/2024,Online Banking,Delay,Complaint Handling Delay,Complaint Handling Delay reported via online banking,TXN854888,30125,KES,Medium,Resolved,22/12/2024,Finance Ops,3
+C00300,CUST58903,17/12/2024,Branch,System Error,Login Error,Login Error reported via branch,,0,KES,High,Resolved,22/12/2024,Customer Experience,3
+C00301,CUST23462,25/12/2024,Mobile App,System Error,ATM Failure,ATM Failure reported via mobile app,,0,KES,Medium,In Progress,,Finance Ops,
+C00302,CUST74248,02/01/2025,Mobile App,Erroneous Deduction,Double Debit,Double Debit reported via mobile app,TXN913682,48199,KES,Medium,Resolved,04/01/2025,IT Operations,4
+C00303,CUST87292,21/12/2024,Mobile App,System Error,Login Error,Login Error reported via mobile app,,0,KES,Medium,In Progress,,Finance Ops,
+C00304,CUST96765,18/12/2024,Mobile App,Erroneous Deduction,Incorrect Fees,Incorrect Fees reported via mobile app,,0,KES,Critical,Resolved,23/12/2024,Customer Experience,2
+C00305,CUST99881,05/01/2025,Mobile App,Delay,Card Delivery Delay,Card Delivery Delay reported via mobile app,TXN983990,17063,KES,High,Resolved,07/01/2025,Customer Experience,3
+C00306,CUST47054,24/12/2024,Mobile App,Customer Service Failure,No Follow-up,No Follow-up reported via mobile app,TXN827502,9489,KES,Medium,Resolved,29/12/2024,Branch Operations,2
+C00307,CUST63707,06/01/2025,Call Center,System Error,App Crash,App Crash reported via call center,TXN984401,13716,KES,High,In Progress,,Finance Ops,
+C00308,CUST29548,16/12/2024,Branch,Customer Service Failure,Rude Staff,Rude Staff reported via branch,,0,KES,Medium,Resolved,21/12/2024,Operations,5
+C00309,CUST32898,31/12/2024,Mobile App,Delay,Card Delivery Delay,Card Delivery Delay reported via mobile app,TXN921707,19900,KES,High,Resolved,01/01/2025,Operations,2
+C00310,CUST53078,24/12/2024,Online Banking,Erroneous Deduction,Incorrect Fees,Incorrect Fees reported via online banking,,0,KES,High,Resolved,26/12/2024,Customer Experience,3
+C00311,CUST72684,29/12/2024,Mobile App,Erroneous Deduction,Incorrect Fees,Incorrect Fees reported via mobile app,TXN919678,26765,KES,Critical,Resolved,01/01/2025,Operations,5
+C00312,CUST73265,04/01/2025,ATM,System Error,ATM Failure,ATM Failure reported via atm,TXN954861,7296,KES,Critical,In Progress,,IT Operations,
+C00313,CUST24802,29/12/2024,Online Banking,System Error,Login Error,Login Error reported via online banking,,0,KES,Low,Resolved,02/01/2025,Branch Operations,5
+C00314,CUST97797,29/12/2024,Online Banking,Delay,Transaction Delay,Transaction Delay reported via online banking,,0,KES,Low,In Progress,,Operations,
+C00315,CUST11526,31/12/2024,ATM,Delay,Complaint Handling Delay,Complaint Handling Delay reported via atm,,0,KES,Medium,Resolved,05/01/2025,Customer Experience,2
+C00316,CUST82154,20/12/2024,ATM,Customer Service Failure,Long Wait Time,Long Wait Time reported via atm,TXN813199,22185,KES,High,Resolved,25/12/2024,IT Operations,3
+C00317,CUST95638,27/12/2024,Branch,System Error,ATM Failure,ATM Failure reported via branch,TXN882853,33166,KES,Critical,Resolved,28/12/2024,Customer Experience,5
+C00318,CUST95799,11/01/2025,Call Center,System Error,ATM Failure,ATM Failure reported via call center,TXN933257,40097,KES,Low,Resolved,16/01/2025,Branch Operations,3
+C00319,CUST96136,25/12/2024,ATM,Erroneous Deduction,Double Debit,Double Debit reported via atm,TXN987867,39818,KES,Medium,In Progress,,Customer Experience,
+C00320,CUST23935,29/12/2024,ATM,Delay,Transaction Delay,Transaction Delay reported via atm,TXN984050,19635,KES,Medium,In Progress,,IT Operations,
+C00321,CUST54293,07/01/2025,Branch,System Error,App Crash,App Crash reported via branch,TXN856515,8413,KES,Medium,Resolved,11/01/2025,IT Operations,3
+C00322,CUST79515,11/01/2025,Call Center,Delay,Card Delivery Delay,Card Delivery Delay reported via call center,,0,KES,High,Resolved,15/01/2025,IT Operations,2
+C00323,CUST26827,01/01/2025,Branch,Customer Service Failure,No Follow-up,No Follow-up reported via branch,,0,KES,High,In Progress,,Branch Operations,
+C00324,CUST48557,15/01/2025,Branch,System Error,Login Error,Login Error reported via branch,TXN889878,18430,KES,Critical,In Progress,,Branch Operations,
+C00325,CUST36330,19/12/2024,Call Center,System Error,Login Error,Login Error reported via call center,,0,KES,Medium,In Progress,,Branch Operations,
+C00326,CUST86389,09/01/2025,ATM,System Error,App Crash,App Crash reported via atm,,0,KES,High,Resolved,12/01/2025,Branch Operations,5
+C00327,CUST31094,28/12/2024,Mobile App,Erroneous Deduction,Phantom Debit,Phantom Debit reported via mobile app,,0,KES,Medium,Resolved,30/12/2024,Branch Operations,4
+C00328,CUST94819,23/12/2024,Online Banking,System Error,ATM Failure,ATM Failure reported via online banking,,0,KES,High,Resolved,28/12/2024,Finance Ops,3
+C00329,CUST17051,22/12/2024,Mobile App,Erroneous Deduction,Incorrect Fees,Incorrect Fees reported via mobile app,TXN944736,45401,KES,Medium,In Progress,,Customer Experience,
+C00330,CUST87120,09/01/2025,Branch,Delay,Card Delivery Delay,Card Delivery Delay reported via branch,TXN997946,42943,KES,Critical,In Progress,,Finance Ops,
+C00331,CUST59440,03/01/2025,Online Banking,System Error,App Crash,App Crash reported via online banking,,0,KES,Medium,Resolved,08/01/2025,Customer Experience,2
+C00332,CUST52287,09/01/2025,ATM,System Error,App Crash,App Crash reported via atm,,0,KES,Critical,Resolved,10/01/2025,Branch Operations,3
+C00333,CUST34100,04/01/2025,Call Center,Erroneous Deduction,Phantom Debit,Phantom Debit reported via call center,,0,KES,Medium,In Progress,,Branch Operations,
+C00334,CUST38632,31/12/2024,Call Center,System Error,Login Error,Login Error reported via call center,TXN886787,14482,KES,High,Resolved,03/01/2025,Branch Operations,4
+C00335,CUST59987,03/01/2025,Mobile App,Customer Service Failure,No Follow-up,No Follow-up reported via mobile app,,0,KES,High,Resolved,04/01/2025,IT Operations,4
+C00336,CUST95397,18/12/2024,Call Center,Customer Service Failure,Long Wait Time,Long Wait Time reported via call center,TXN927612,25073,KES,Low,Resolved,19/12/2024,Operations,4
+C00337,CUST36945,13/01/2025,ATM,Delay,Transaction Delay,Transaction Delay reported via atm,,0,KES,High,Resolved,17/01/2025,Branch Operations,2
+C00338,CUST43018,28/12/2024,ATM,Delay,Card Delivery Delay,Card Delivery Delay reported via atm,,0,KES,High,Resolved,29/12/2024,IT Operations,3
+C00339,CUST80101,02/01/2025,Branch,System Error,Failed Reversal,Failed Reversal reported via branch,,0,KES,High,Resolved,06/01/2025,Customer Experience,2
+C00340,CUST89503,14/01/2025,Call Center,Delay,Card Delivery Delay,Card Delivery Delay reported via call center,,0,KES,High,Resolved,17/01/2025,IT Operations,4
+C00341,CUST49066,12/01/2025,Mobile App,System Error,Login Error,Login Error reported via mobile app,TXN943058,49439,KES,Medium,Resolved,15/01/2025,Customer Experience,3
+C00342,CUST49936,04/01/2025,Call Center,Erroneous Deduction,Double Debit,Double Debit reported via call center,TXN940811,38033,KES,Medium,Resolved,09/01/2025,Branch Operations,2
+C00343,CUST97946,10/01/2025,Call Center,Delay,Complaint Handling Delay,Complaint Handling Delay reported via call center,,0,KES,Medium,Resolved,11/01/2025,Finance Ops,3
+C00344,CUST53365,16/12/2024,Call Center,Customer Service Failure,No Follow-up,No Follow-up reported via call center,,0,KES,Medium,Resolved,21/12/2024,IT Operations,5
+C00345,CUST86568,04/01/2025,Online Banking,System Error,ATM Failure,ATM Failure reported via online banking,TXN886073,32341,KES,Low,Resolved,09/01/2025,Branch Operations,4
+C00346,CUST99073,14/01/2025,Branch,System Error,Failed Reversal,Failed Reversal reported via branch,TXN872529,15017,KES,Low,Resolved,17/01/2025,Finance Ops,3
+C00347,CUST80597,30/12/2024,Online Banking,Customer Service Failure,Long Wait Time,Long Wait Time reported via online banking,,0,KES,High,Resolved,02/01/2025,Operations,3
+C00348,CUST82298,15/01/2025,Mobile App,Delay,Card Delivery Delay,Card Delivery Delay reported via mobile app,TXN954674,38634,KES,Critical,Resolved,17/01/2025,IT Operations,2
+C00349,CUST70909,01/01/2025,ATM,Customer Service Failure,No Follow-up,No Follow-up reported via atm,TXN835096,39140,KES,Medium,In Progress,,Operations,
+C00350,CUST77388,17/12/2024,Call Center,Customer Service Failure,Long Wait Time,Long Wait Time reported via call center,,0,KES,High,In Progress,,IT Operations,
+C00351,CUST40375,07/01/2025,Call Center,Delay,Card Delivery Delay,Card Delivery Delay reported via call center,,0,KES,High,Resolved,09/01/2025,Finance Ops,5
+C00352,CUST23529,10/01/2025,ATM,Delay,Transaction Delay,Transaction Delay reported via atm,TXN812173,31280,KES,Critical,Resolved,11/01/2025,Branch Operations,4
+C00353,CUST77720,31/12/2024,Online Banking,Erroneous Deduction,Incorrect Fees,Incorrect Fees reported via online banking,TXN895760,43339,KES,High,Resolved,05/01/2025,Branch Operations,2
+C00354,CUST67658,22/12/2024,Online Banking,Customer Service Failure,Long Wait Time,Long Wait Time reported via online banking,,0,KES,High,In Progress,,Customer Experience,
+C00355,CUST24855,06/01/2025,ATM,System Error,App Crash,App Crash reported via atm,,0,KES,Medium,Resolved,10/01/2025,Finance Ops,4
+C00356,CUST27658,30/12/2024,Call Center,Customer Service Failure,Rude Staff,Rude Staff reported via call center,,0,KES,High,Resolved,01/01/2025,Finance Ops,3
+C00357,CUST38389,16/12/2024,ATM,System Error,ATM Failure,ATM Failure reported via atm,,0,KES,Critical,Resolved,19/12/2024,Operations,2
+C00358,CUST99861,30/12/2024,ATM,Customer Service Failure,Rude Staff,Rude Staff reported via atm,TXN843967,12419,KES,High,In Progress,,Customer Experience,
+C00359,CUST33255,29/12/2024,Branch,Delay,Transaction Delay,Transaction Delay reported via branch,TXN839206,34756,KES,Medium,Resolved,03/01/2025,Customer Experience,2
+C00360,CUST58546,03/01/2025,Call Center,Delay,Card Delivery Delay,Card Delivery Delay reported via call center,,0,KES,Low,Resolved,07/01/2025,IT Operations,5
+C00361,CUST65769,31/12/2024,Branch,Customer Service Failure,Rude Staff,Rude Staff reported via branch,,0,KES,Medium,In Progress,,Customer Experience,
+C00362,CUST78126,12/01/2025,Online Banking,Delay,Transaction Delay,Transaction Delay reported via online banking,,0,KES,Critical,Resolved,13/01/2025,Branch Operations,2
+C00363,CUST84012,15/01/2025,Online Banking,Delay,Card Delivery Delay,Card Delivery Delay reported via online banking,TXN868498,43201,KES,Medium,Resolved,20/01/2025,Customer Experience,5
+C00364,CUST62183,23/12/2024,Branch,Customer Service Failure,Rude Staff,Rude Staff reported via branch,TXN866526,24762,KES,High,Resolved,26/12/2024,Branch Operations,4
+C00365,CUST93345,18/12/2024,ATM,System Error,Login Error,Login Error reported via atm,,0,KES,Medium,Resolved,20/12/2024,IT Operations,5
+C00366,CUST60374,06/01/2025,Call Center,Delay,Complaint Handling Delay,Complaint Handling Delay reported via call center,,0,KES,Low,Resolved,11/01/2025,Customer Experience,2
+C00367,CUST11403,27/12/2024,Call Center,Erroneous Deduction,Incorrect Fees,Incorrect Fees reported via call center,TXN915073,42462,KES,Critical,In Progress,,IT Operations,
+C00368,CUST41359,15/01/2025,Mobile App,System Error,App Crash,App Crash reported via mobile app,,0,KES,High,Resolved,16/01/2025,Branch Operations,4
+C00369,CUST82036,20/12/2024,Branch,Delay,Complaint Handling Delay,Complaint Handling Delay reported via branch,,0,KES,High,Resolved,21/12/2024,Operations,2
+C00370,CUST63363,01/01/2025,Online Banking,Erroneous Deduction,Phantom Debit,Phantom Debit reported via online banking,,0,KES,High,Resolved,04/01/2025,Finance Ops,3
+C00371,CUST68034,01/01/2025,Online Banking,Delay,Card Delivery Delay,Card Delivery Delay reported via online banking,TXN981978,17388,KES,Critical,In Progress,,Operations,
+C00372,CUST43792,02/01/2025,Online Banking,Customer Service Failure,Rude Staff,Rude Staff reported via online banking,TXN830479,2292,KES,High,In Progress,,Customer Experience,
+C00373,CUST47655,15/01/2025,ATM,Delay,Card Delivery Delay,Card Delivery Delay reported via atm,,0,KES,High,Resolved,18/01/2025,Operations,3
+C00374,CUST36170,15/01/2025,Call Center,System Error,ATM Failure,ATM Failure reported via call center,TXN847915,38098,KES,High,Resolved,17/01/2025,Finance Ops,5
+C00375,CUST23983,08/01/2025,ATM,System Error,App Crash,App Crash reported via atm,,0,KES,Critical,In Progress,,Finance Ops,
+C00376,CUST33969,06/01/2025,Call Center,System Error,ATM Failure,ATM Failure reported via call center,TXN950606,21171,KES,Critical,Resolved,09/01/2025,IT Operations,5
+C00377,CUST61605,31/12/2024,ATM,Erroneous Deduction,Phantom Debit,Phantom Debit reported via atm,TXN941759,28233,KES,Medium,Resolved,01/01/2025,Branch Operations,4
+C00378,CUST52655,20/12/2024,Call Center,Customer Service Failure,Rude Staff,Rude Staff reported via call center,,0,KES,Medium,Resolved,24/12/2024,Customer Experience,2
+C00379,CUST37594,23/12/2024,ATM,System Error,Failed Reversal,Failed Reversal reported via atm,,0,KES,High,Resolved,27/12/2024,Operations,5
+C00380,CUST40907,26/12/2024,Online Banking,Erroneous Deduction,Phantom Debit,Phantom Debit reported via online banking,,0,KES,Medium,Resolved,27/12/2024,Customer Experience,4
+C00381,CUST73782,27/12/2024,ATM,System Error,App Crash,App Crash reported via atm,,0,KES,Critical,Resolved,01/01/2025,Customer Experience,4
+C00382,CUST68963,01/01/2025,Mobile App,Delay,Complaint Handling Delay,Complaint Handling Delay reported via mobile app,,0,KES,Low,In Progress,,Finance Ops,
+C00383,CUST85609,23/12/2024,Call Center,Erroneous Deduction,Phantom Debit,Phantom Debit reported via call center,TXN831781,1799,KES,Critical,Resolved,26/12/2024,Branch Operations,3
+C00384,CUST70784,04/01/2025,Online Banking,System Error,Failed Reversal,Failed Reversal reported via online banking,TXN820554,48768,KES,High,Resolved,08/01/2025,Operations,4
+C00385,CUST31233,19/12/2024,Branch,System Error,Failed Reversal,Failed Reversal reported via branch,,0,KES,High,In Progress,,Branch Operations,
+C00386,CUST64262,25/12/2024,Online Banking,Erroneous Deduction,Incorrect Fees,Incorrect Fees reported via online banking,TXN996056,29656,KES,High,Resolved,30/12/2024,Operations,5
+C00387,CUST31877,05/01/2025,ATM,Delay,Card Delivery Delay,Card Delivery Delay reported via atm,,0,KES,Critical,In Progress,,Operations,
+C00388,CUST21050,18/12/2024,Call Center,Delay,Complaint Handling Delay,Complaint Handling Delay reported via call center,,0,KES,Low,Resolved,21/12/2024,IT Operations,3
+C00389,CUST96972,27/12/2024,ATM,Erroneous Deduction,Double Debit,Double Debit reported via atm,,0,KES,High,Resolved,28/12/2024,Operations,2
+C00390,CUST92712,25/12/2024,Call Center,Customer Service Failure,Long Wait Time,Long Wait Time reported via call center,,0,KES,High,Resolved,30/12/2024,Operations,5
+C00391,CUST57943,02/01/2025,Call Center,Customer Service Failure,No Follow-up,No Follow-up reported via call center,,0,KES,Critical,Resolved,06/01/2025,Operations,4
+C00392,CUST80136,19/12/2024,Mobile App,Erroneous Deduction,Double Debit,Double Debit reported via mobile app,TXN922997,23036,KES,Critical,In Progress,,Branch Operations,
+C00393,CUST61740,12/01/2025,Mobile App,System Error,Failed Reversal,Failed Reversal reported via mobile app,TXN849432,973,KES,High,Resolved,16/01/2025,Customer Experience,5
+C00394,CUST64120,15/01/2025,ATM,System Error,Login Error,Login Error reported via atm,TXN874626,34356,KES,Low,Resolved,20/01/2025,Operations,4
+C00395,CUST29942,06/01/2025,Online Banking,Delay,Transaction Delay,Transaction Delay reported via online banking,TXN849227,18334,KES,High,Resolved,09/01/2025,IT Operations,2
+C00396,CUST40514,13/01/2025,Mobile App,Delay,Transaction Delay,Transaction Delay reported via mobile app,,0,KES,Medium,In Progress,,Operations,
+C00397,CUST14159,05/01/2025,Online Banking,System Error,App Crash,App Crash reported via online banking,TXN982697,24839,KES,Medium,In Progress,,Customer Experience,
+C00398,CUST60436,19/12/2024,Branch,Delay,Complaint Handling Delay,Complaint Handling Delay reported via branch,TXN803307,16889,KES,High,Resolved,20/12/2024,IT Operations,3
+C00399,CUST99318,29/12/2024,ATM,System Error,ATM Failure,ATM Failure reported via atm,,0,KES,High,Resolved,02/01/2025,Customer Experience,5
+C00400,CUST97385,25/12/2024,Call Center,System Error,ATM Failure,ATM Failure reported via call center,,0,KES,Medium,Resolved,28/12/2024,Branch Operations,2
+C00401,CUST61879,06/01/2025,Branch,Delay,Card Delivery Delay,Card Delivery Delay reported via branch,,0,KES,Low,In Progress,,Operations,
+C00402,CUST75525,15/12/2024,Branch,Delay,Card Delivery Delay,Card Delivery Delay reported via branch,,0,KES,Medium,In Progress,,Branch Operations,
+C00403,CUST73942,14/01/2025,Mobile App,System Error,ATM Failure,ATM Failure reported via mobile app,,0,KES,High,In Progress,,Operations,
+C00404,CUST83272,13/01/2025,ATM,System Error,Login Error,Login Error reported via atm,TXN810351,9329,KES,High,Resolved,17/01/2025,IT Operations,5
+C00405,CUST19027,12/01/2025,ATM,Delay,Card Delivery Delay,Card Delivery Delay reported via atm,,0,KES,Medium,In Progress,,Branch Operations,
+C00406,CUST34318,12/01/2025,Call Center,System Error,Failed Reversal,Failed Reversal reported via call center,TXN992323,33658,KES,High,In Progress,,Operations,
+C00407,CUST82281,03/01/2025,ATM,Erroneous Deduction,Incorrect Fees,Incorrect Fees reported via atm,TXN849773,35821,KES,High,Resolved,08/01/2025,Operations,5
+C00408,CUST36486,09/01/2025,Online Banking,System Error,Login Error,Login Error reported via online banking,,0,KES,Low,Resolved,11/01/2025,IT Operations,2
+C00409,CUST89423,08/01/2025,Call Center,Delay,Transaction Delay,Transaction Delay reported via call center,TXN812867,46461,KES,High,Resolved,11/01/2025,Customer Experience,3
+C00410,CUST79339,15/12/2024,Mobile App,System Error,Login Error,Login Error reported via mobile app,TXN896749,37070,KES,Critical,Resolved,16/12/2024,Customer Experience,4
+C00411,CUST35312,06/01/2025,ATM,System Error,ATM Failure,ATM Failure reported via atm,TXN849665,35342,KES,Low,In Progress,,Branch Operations,
+C00412,CUST70125,08/01/2025,Call Center,Delay,Card Delivery Delay,Card Delivery Delay reported via call center,TXN976814,38285,KES,High,In Progress,,Customer Experience,
+C00413,CUST58722,28/12/2024,ATM,Delay,Transaction Delay,Transaction Delay reported via atm,TXN892359,10866,KES,High,Resolved,31/12/2024,Branch Operations,4
+C00414,CUST62047,15/01/2025,Call Center,System Error,Failed Reversal,Failed Reversal reported via call center,TXN894374,36560,KES,High,Resolved,19/01/2025,Finance Ops,5
+C00415,CUST12844,05/01/2025,Call Center,System Error,ATM Failure,ATM Failure reported via call center,,0,KES,Critical,Resolved,07/01/2025,Finance Ops,4
+C00416,CUST49361,23/12/2024,Mobile App,System Error,ATM Failure,ATM Failure reported via mobile app,,0,KES,Medium,Resolved,25/12/2024,Customer Experience,4
+C00417,CUST14898,11/01/2025,Mobile App,Delay,Card Delivery Delay,Card Delivery Delay reported via mobile app,,0,KES,High,Resolved,16/01/2025,Operations,4
+C00418,CUST39716,02/01/2025,Mobile App,Customer Service Failure,Rude Staff,Rude Staff reported via mobile app,,0,KES,Medium,In Progress,,Operations,
+C00419,CUST30079,03/01/2025,Branch,Delay,Card Delivery Delay,Card Delivery Delay reported via branch,,0,KES,Medium,Resolved,06/01/2025,IT Operations,3
+C00420,CUST81847,11/01/2025,ATM,System Error,ATM Failure,ATM Failure reported via atm,TXN821638,9163,KES,Medium,Resolved,15/01/2025,Customer Experience,2
+C00421,CUST41760,06/01/2025,ATM,System Error,Login Error,Login Error reported via atm,,0,KES,High,Resolved,11/01/2025,Finance Ops,3
+C00422,CUST32184,11/01/2025,Mobile App,System Error,ATM Failure,ATM Failure reported via mobile app,TXN955681,21519,KES,High,Resolved,12/01/2025,Customer Experience,4
+C00423,CUST21247,03/01/2025,ATM,Customer Service Failure,No Follow-up,No Follow-up reported via atm,TXN840892,13586,KES,Low,In Progress,,Customer Experience,
+C00424,CUST53499,05/01/2025,ATM,Delay,Card Delivery Delay,Card Delivery Delay reported via atm,TXN917980,7792,KES,Low,Resolved,09/01/2025,Operations,2
+C00425,CUST86415,13/01/2025,Call Center,Delay,Transaction Delay,Transaction Delay reported via call center,,0,KES,High,Resolved,14/01/2025,Branch Operations,5
+C00426,CUST70943,31/12/2024,ATM,Delay,Complaint Handling Delay,Complaint Handling Delay reported via atm,TXN813915,40998,KES,Medium,In Progress,,IT Operations,
+C00427,CUST51347,15/12/2024,Online Banking,Delay,Complaint Handling Delay,Complaint Handling Delay reported via online banking,TXN860599,43059,KES,Critical,Resolved,19/12/2024,Operations,2
+C00428,CUST79391,14/01/2025,ATM,Delay,Transaction Delay,Transaction Delay reported via atm,,0,KES,Critical,Resolved,15/01/2025,Branch Operations,3
+C00429,CUST18127,12/01/2025,Mobile App,System Error,App Crash,App Crash reported via mobile app,,0,KES,High,Resolved,17/01/2025,Operations,4
+C00430,CUST21507,11/01/2025,Online Banking,Delay,Card Delivery Delay,Card Delivery Delay reported via online banking,,0,KES,Medium,In Progress,,Finance Ops,
+C00431,CUST81071,31/12/2024,ATM,System Error,Login Error,Login Error reported via atm,TXN917747,40173,KES,Medium,In Progress,,Branch Operations,
+C00432,CUST96013,15/01/2025,Call Center,Delay,Card Delivery Delay,Card Delivery Delay reported via call center,,0,KES,Critical,Resolved,19/01/2025,Finance Ops,3
+C00433,CUST64269,20/12/2024,Call Center,Erroneous Deduction,Double Debit,Double Debit reported via call center,,0,KES,Critical,Resolved,21/12/2024,Branch Operations,4
+C00434,CUST89377,24/12/2024,Online Banking,Customer Service Failure,No Follow-up,No Follow-up reported via online banking,,0,KES,High,Resolved,29/12/2024,Finance Ops,4
+C00435,CUST95140,08/01/2025,Mobile App,Delay,Transaction Delay,Transaction Delay reported via mobile app,TXN986651,9287,KES,Low,In Progress,,Operations,
+C00436,CUST36812,11/01/2025,ATM,System Error,Login Error,Login Error reported via atm,TXN908277,1483,KES,Medium,Resolved,13/01/2025,Finance Ops,3
+C00437,CUST51012,12/01/2025,Branch,System Error,Failed Reversal,Failed Reversal reported via branch,TXN988796,40341,KES,High,In Progress,,Finance Ops,
+C00438,CUST15144,14/01/2025,Mobile App,Delay,Card Delivery Delay,Card Delivery Delay reported via mobile app,TXN992720,16603,KES,High,In Progress,,Customer Experience,
+C00439,CUST90364,13/01/2025,Online Banking,Delay,Transaction Delay,Transaction Delay reported via online banking,TXN843643,19237,KES,Medium,Resolved,17/01/2025,Customer Experience,4
+C00440,CUST52396,31/12/2024,Branch,System Error,Login Error,Login Error reported via branch,,0,KES,High,Resolved,04/01/2025,IT Operations,5
+C00441,CUST24963,07/01/2025,Branch,System Error,App Crash,App Crash reported via branch,,0,KES,Medium,Resolved,08/01/2025,IT Operations,2
+C00442,CUST59634,04/01/2025,Call Center,Erroneous Deduction,Double Debit,Double Debit reported via call center,,0,KES,High,In Progress,,Customer Experience,
+C00443,CUST50569,05/01/2025,Call Center,Delay,Complaint Handling Delay,Complaint Handling Delay reported via call center,,0,KES,Medium,Resolved,09/01/2025,Finance Ops,4
+C00444,CUST70115,29/12/2024,ATM,Erroneous Deduction,Incorrect Fees,Incorrect Fees reported via atm,TXN803200,731,KES,Critical,In Progress,,IT Operations,
+C00445,CUST42075,12/01/2025,Branch,Delay,Card Delivery Delay,Card Delivery Delay reported via branch,TXN915834,30236,KES,Medium,Resolved,13/01/2025,Finance Ops,2
+C00446,CUST53399,23/12/2024,ATM,System Error,ATM Failure,ATM Failure reported via atm,,0,KES,Low,Resolved,28/12/2024,Finance Ops,4
+C00447,CUST14697,16/12/2024,ATM,Delay,Complaint Handling Delay,Complaint Handling Delay reported via atm,,0,KES,High,Resolved,20/12/2024,Finance Ops,4
+C00448,CUST27635,09/01/2025,Branch,System Error,Failed Reversal,Failed Reversal reported via branch,TXN923421,4754,KES,High,In Progress,,IT Operations,
+C00449,CUST65974,09/01/2025,Call Center,System Error,Login Error,Login Error reported via call center,,0,KES,High,Resolved,13/01/2025,Finance Ops,4
+C00450,CUST48074,10/01/2025,ATM,System Error,Failed Reversal,Failed Reversal reported via atm,TXN929107,41909,KES,High,Resolved,12/01/2025,Branch Operations,3
+C00451,CUST55829,15/12/2024,Branch,Delay,Transaction Delay,Transaction Delay reported via branch,TXN908538,40824,KES,High,Resolved,16/12/2024,IT Operations,4
+C00452,CUST54742,15/01/2025,ATM,Delay,Transaction Delay,Transaction Delay reported via atm,TXN801607,20179,KES,Medium,Resolved,16/01/2025,Operations,4
+C00453,CUST94626,14/01/2025,ATM,Delay,Transaction Delay,Transaction Delay reported via atm,TXN809321,31898,KES,Critical,In Progress,,Operations,
+C00454,CUST37297,07/01/2025,Branch,System Error,Failed Reversal,Failed Reversal reported via branch,TXN948096,34649,KES,Critical,Resolved,10/01/2025,Customer Experience,2
+C00455,CUST34560,10/01/2025,ATM,System Error,ATM Failure,ATM Failure reported via atm,,0,KES,Critical,Resolved,15/01/2025,Operations,5
+C00456,CUST38329,09/01/2025,Online Banking,System Error,ATM Failure,ATM Failure reported via online banking,TXN879332,24852,KES,Low,In Progress,,Customer Experience,
+C00457,CUST54579,07/01/2025,Mobile App,Delay,Complaint Handling Delay,Complaint Handling Delay reported via mobile app,TXN931086,2134,KES,Critical,Resolved,09/01/2025,Finance Ops,3
+C00458,CUST36894,31/12/2024,ATM,Erroneous Deduction,Phantom Debit,Phantom Debit reported via atm,,0,KES,Critical,In Progress,,IT Operations,
+C00459,CUST53684,29/12/2024,Call Center,Customer Service Failure,No Follow-up,No Follow-up reported via call center,,0,KES,Low,In Progress,,IT Operations,
+C00460,CUST46261,05/01/2025,Online Banking,Delay,Card Delivery Delay,Card Delivery Delay reported via online banking,TXN852574,14252,KES,High,Resolved,07/01/2025,IT Operations,4
+C00461,CUST82006,12/01/2025,ATM,Delay,Complaint Handling Delay,Complaint Handling Delay reported via atm,,0,KES,Medium,Resolved,14/01/2025,Finance Ops,4
+C00462,CUST27049,07/01/2025,ATM,System Error,App Crash,App Crash reported via atm,TXN813297,35927,KES,Medium,In Progress,,IT Operations,
+C00463,CUST53559,15/01/2025,Branch,Delay,Transaction Delay,Transaction Delay reported via branch,TXN961563,46681,KES,Low,Resolved,18/01/2025,IT Operations,4
+C00464,CUST69714,01/01/2025,Call Center,Delay,Complaint Handling Delay,Complaint Handling Delay reported via call center,TXN825496,46283,KES,Low,In Progress,,Finance Ops,
+C00465,CUST34032,15/01/2025,ATM,System Error,Login Error,Login Error reported via atm,TXN902780,17411,KES,Medium,In Progress,,Finance Ops,
+C00466,CUST89225,25/12/2024,Branch,Erroneous Deduction,Phantom Debit,Phantom Debit reported via branch,TXN844774,31868,KES,Low,Resolved,28/12/2024,IT Operations,4
+C00467,CUST41270,13/01/2025,Mobile App,Delay,Complaint Handling Delay,Complaint Handling Delay reported via mobile app,TXN905071,20299,KES,High,Resolved,18/01/2025,Operations,5
+C00468,CUST84345,13/01/2025,Branch,Delay,Complaint Handling Delay,Complaint Handling Delay reported via branch,TXN914125,39229,KES,Medium,In Progress,,IT Operations,
+C00469,CUST68355,01/01/2025,Mobile App,System Error,App Crash,App Crash reported via mobile app,TXN885295,39564,KES,Critical,Resolved,06/01/2025,Branch Operations,2
+C00470,CUST28208,11/01/2025,Mobile App,Delay,Card Delivery Delay,Card Delivery Delay reported via mobile app,,0,KES,High,Resolved,12/01/2025,Branch Operations,3
+C00471,CUST49286,04/01/2025,ATM,Delay,Transaction Delay,Transaction Delay reported via atm,TXN851292,38375,KES,High,Resolved,06/01/2025,Customer Experience,4
+C00472,CUST58394,15/01/2025,Online Banking,System Error,Login Error,Login Error reported via online banking,TXN833437,33951,KES,High,Resolved,18/01/2025,IT Operations,2
+C00473,CUST91948,16/12/2024,Call Center,Delay,Card Delivery Delay,Card Delivery Delay reported via call center,,0,KES,Medium,Resolved,20/12/2024,Operations,5
+C00474,CUST57223,11/01/2025,Branch,System Error,Login Error,Login Error reported via branch,,0,KES,Medium,Resolved,16/01/2025,Branch Operations,5
+C00475,CUST21097,19/12/2024,ATM,Erroneous Deduction,Incorrect Fees,Incorrect Fees reported via atm,TXN972471,9936,KES,Low,Resolved,23/12/2024,Finance Ops,3
+C00476,CUST65675,11/01/2025,Call Center,System Error,Login Error,Login Error reported via call center,TXN893141,29994,KES,High,Resolved,13/01/2025,Finance Ops,3
+C00477,CUST58310,14/01/2025,Call Center,System Error,App Crash,App Crash reported via call center,,0,KES,High,Resolved,15/01/2025,Operations,5
+C00478,CUST92662,12/01/2025,Call Center,Delay,Transaction Delay,Transaction Delay reported via call center,,0,KES,High,Resolved,14/01/2025,Operations,5
+C00479,CUST56257,17/12/2024,Mobile App,Erroneous Deduction,Incorrect Fees,Incorrect Fees reported via mobile app,TXN950461,30255,KES,High,Resolved,20/12/2024,Operations,5
+C00480,CUST92483,24/12/2024,Mobile App,Erroneous Deduction,Double Debit,Double Debit reported via mobile app,TXN816100,37443,KES,High,In Progress,,Branch Operations,
+C00481,CUST27372,07/01/2025,Online Banking,Delay,Card Delivery Delay,Card Delivery Delay reported via online banking,,0,KES,Low,Resolved,10/01/2025,Branch Operations,4
+C00482,CUST40958,09/01/2025,Mobile App,System Error,ATM Failure,ATM Failure reported via mobile app,TXN896932,10404,KES,Medium,Resolved,11/01/2025,Branch Operations,4
+C00483,CUST41188,13/01/2025,Mobile App,Delay,Complaint Handling Delay,Complaint Handling Delay reported via mobile app,TXN900444,33002,KES,High,In Progress,,Finance Ops,
+C00484,CUST62264,04/01/2025,Call Center,System Error,App Crash,App Crash reported via call center,,0,KES,Low,Resolved,06/01/2025,Operations,5
+C00485,CUST60070,12/01/2025,Branch,Delay,Complaint Handling Delay,Complaint Handling Delay reported via branch,,0,KES,Medium,Resolved,15/01/2025,Customer Experience,5
+C00486,CUST22881,31/12/2024,Call Center,Delay,Transaction Delay,Transaction Delay reported via call center,TXN887809,43233,KES,Critical,Resolved,03/01/2025,Operations,4
+C00487,CUST98185,14/01/2025,ATM,System Error,Login Error,Login Error reported via atm,,0,KES,High,Resolved,17/01/2025,Branch Operations,2
+C00488,CUST13106,06/01/2025,Mobile App,Delay,Complaint Handling Delay,Complaint Handling Delay reported via mobile app,TXN866033,14879,KES,Medium,Resolved,08/01/2025,Branch Operations,2
+C00489,CUST43205,05/01/2025,Mobile App,Delay,Card Delivery Delay,Card Delivery Delay reported via mobile app,,0,KES,Low,Resolved,06/01/2025,IT Operations,3
+C00490,CUST46344,15/01/2025,Branch,Delay,Card Delivery Delay,Card Delivery Delay reported via branch,TXN867459,44250,KES,High,Resolved,17/01/2025,Operations,2
+C00491,CUST89993,27/12/2024,Mobile App,Customer Service Failure,Long Wait Time,Long Wait Time reported via mobile app,,0,KES,Critical,Resolved,31/12/2024,Operations,3
+C00492,CUST23538,15/01/2025,ATM,System Error,ATM Failure,ATM Failure reported via atm,,0,KES,High,Resolved,19/01/2025,Branch Operations,4
+C00493,CUST61292,06/01/2025,Mobile App,System Error,Login Error,Login Error reported via mobile app,TXN869844,2979,KES,Medium,Resolved,08/01/2025,Customer Experience,4
+C00494,CUST10433,13/01/2025,Branch,System Error,Login Error,Login Error reported via branch,,0,KES,Critical,In Progress,,Customer Experience,
+C00495,CUST20545,12/01/2025,Call Center,Delay,Card Delivery Delay,Card Delivery Delay reported via call center,,0,KES,Medium,Resolved,15/01/2025,Operations,4
+C00496,CUST21123,24/12/2024,Call Center,System Error,App Crash,App Crash reported via call center,TXN827988,20086,KES,Critical,Resolved,27/12/2024,IT Operations,5
+C00497,CUST18256,29/12/2024,Mobile App,System Error,App Crash,App Crash reported via mobile app,TXN901913,16129,KES,Low,In Progress,,Finance Ops,
+C00498,CUST63150,04/01/2025,Call Center,Erroneous Deduction,Phantom Debit,Phantom Debit reported via call center,,0,KES,Critical,Resolved,07/01/2025,Customer Experience,2
+C00499,CUST91051,15/01/2025,Call Center,System Error,App Crash,App Crash reported via call center,TXN971398,9779,KES,Critical,Resolved,16/01/2025,Finance Ops,5
+C00500,CUST32372,15/01/2025,ATM,Delay,Transaction Delay,Transaction Delay reported via atm,TXN960229,6876,KES,Critical,In Progress,,IT Operations,
+C00501,CUST25833,17/12/2024,Branch,Delay,Transaction Delay,Transaction Delay reported via branch,TXN888432,13780,KES,High,Resolved,21/12/2024,Branch Operations,4
+C00502,CUST58487,02/01/2025,ATM,System Error,Failed Reversal,Failed Reversal reported via atm,TXN837024,8413,KES,High,Resolved,06/01/2025,IT Operations,3
+C00503,CUST12048,12/01/2025,Mobile App,Delay,Card Delivery Delay,Card Delivery Delay reported via mobile app,TXN841354,40636,KES,Low,In Progress,,Finance Ops,
+C00504,CUST37021,17/12/2024,ATM,Delay,Transaction Delay,Transaction Delay reported via atm,TXN981797,19094,KES,High,Resolved,21/12/2024,IT Operations,3
+C00505,CUST55593,09/01/2025,ATM,System Error,Login Error,Login Error reported via atm,TXN960445,12296,KES,High,Resolved,10/01/2025,Finance Ops,4
+C00506,CUST46231,13/01/2025,Mobile App,Delay,Transaction Delay,Transaction Delay reported via mobile app,,0,KES,Critical,Resolved,17/01/2025,Branch Operations,3
+C00507,CUST37471,06/01/2025,Branch,Delay,Card Delivery Delay,Card Delivery Delay reported via branch,,0,KES,Medium,Resolved,09/01/2025,Customer Experience,4
+C00508,CUST40841,10/01/2025,Mobile App,System Error,ATM Failure,ATM Failure reported via mobile app,TXN934978,2404,KES,Critical,Resolved,11/01/2025,IT Operations,2
+C00509,CUST36208,02/01/2025,ATM,Erroneous Deduction,Phantom Debit,Phantom Debit reported via atm,,0,KES,Medium,Resolved,04/01/2025,Operations,5
+C00510,CUST27878,08/01/2025,Call Center,Delay,Complaint Handling Delay,Complaint Handling Delay reported via call center,TXN846677,14666,KES,Low,Resolved,12/01/2025,Customer Experience,4
+C00511,CUST70106,08/01/2025,ATM,System Error,Failed Reversal,Failed Reversal reported via atm,TXN835783,4409,KES,Medium,Resolved,09/01/2025,Operations,5
+C00512,CUST21334,10/01/2025,Call Center,Delay,Complaint Handling Delay,Complaint Handling Delay reported via call center,,0,KES,High,Resolved,15/01/2025,Finance Ops,3
+C00513,CUST52899,13/01/2025,Call Center,System Error,App Crash,App Crash reported via call center,TXN992984,48342,KES,Critical,Resolved,15/01/2025,Customer Experience,3
+C00514,CUST72818,08/01/2025,Mobile App,Delay,Card Delivery Delay,Card Delivery Delay reported via mobile app,,0,KES,Critical,Resolved,12/01/2025,Customer Experience,5
+C00515,CUST48769,18/12/2024,ATM,Customer Service Failure,Long Wait Time,Long Wait Time reported via atm,TXN857149,48458,KES,High,Resolved,20/12/2024,IT Operations,4
+C00516,CUST69616,06/01/2025,Online Banking,Delay,Complaint Handling Delay,Complaint Handling Delay reported via online banking,,0,KES,High,In Progress,,Finance Ops,
+C00517,CUST79588,07/01/2025,Online Banking,System Error,App Crash,App Crash reported via online banking,,0,KES,High,Resolved,11/01/2025,Customer Experience,4
+C00518,CUST24544,11/01/2025,Mobile App,System Error,App Crash,App Crash reported via mobile app,TXN813516,4092,KES,Critical,In Progress,,Branch Operations,
+C00519,CUST28141,12/01/2025,Online Banking,Delay,Complaint Handling Delay,Complaint Handling Delay reported via online banking,,0,KES,High,In Progress,,Finance Ops,
+C00520,CUST52003,22/12/2024,Branch,Delay,Card Delivery Delay,Card Delivery Delay reported via branch,,0,KES,Critical,In Progress,,Branch Operations,
+C00521,CUST69241,09/01/2025,Mobile App,System Error,Failed Reversal,Failed Reversal reported via mobile app,,0,KES,Medium,Resolved,13/01/2025,IT Operations,4
+C00522,CUST24334,15/01/2025,Branch,Delay,Transaction Delay,Transaction Delay reported via branch,,0,KES,Low,In Progress,,IT Operations,
+C00523,CUST72115,06/01/2025,ATM,Delay,Complaint Handling Delay,Complaint Handling Delay reported via atm,TXN978887,19713,KES,High,Resolved,11/01/2025,Finance Ops,3
+C00524,CUST85851,12/01/2025,ATM,Delay,Complaint Handling Delay,Complaint Handling Delay reported via atm,TXN907922,34553,KES,Low,In Progress,,IT Operations,
+C00525,CUST44079,15/01/2025,Call Center,System Error,Login Error,Login Error reported via call center,,0,KES,Critical,Resolved,18/01/2025,Branch Operations,3
+C00526,CUST80165,10/01/2025,ATM,System Error,ATM Failure,ATM Failure reported via atm,,0,KES,Medium,In Progress,,Operations,
+C00527,CUST36890,07/01/2025,ATM,Delay,Transaction Delay,Transaction Delay reported via atm,TXN868264,8788,KES,Low,Resolved,10/01/2025,IT Operations,3
+C00528,CUST13266,05/01/2025,ATM,System Error,Failed Reversal,Failed Reversal reported via atm,TXN831847,35472,KES,High,In Progress,,Operations,
+C00529,CUST48739,12/01/2025,Online Banking,Delay,Complaint Handling Delay,Complaint Handling Delay reported via online banking,TXN969671,33753,KES,Low,In Progress,,Finance Ops,
+C00530,CUST98867,09/01/2025,Branch,Delay,Card Delivery Delay,Card Delivery Delay reported via branch,,0,KES,High,In Progress,,Operations,
+C00531,CUST46428,09/01/2025,Call Center,Delay,Complaint Handling Delay,Complaint Handling Delay reported via call center,,0,KES,High,Resolved,14/01/2025,Finance Ops,3
+C00532,CUST29391,06/01/2025,Call Center,System Error,ATM Failure,ATM Failure reported via call center,,0,KES,Medium,Resolved,09/01/2025,Customer Experience,5
+C00533,CUST64474,28/12/2024,Online Banking,Erroneous Deduction,Phantom Debit,Phantom Debit reported via online banking,,0,KES,Medium,Resolved,30/12/2024,IT Operations,5
+C00534,CUST78852,24/12/2024,Branch,System Error,Login Error,Login Error reported via branch,,0,KES,Critical,Resolved,27/12/2024,Finance Ops,5
+C00535,CUST36117,17/12/2024,Mobile App,Customer Service Failure,Rude Staff,Rude Staff reported via mobile app,TXN986186,11961,KES,High,Resolved,22/12/2024,Customer Experience,3
+C00536,CUST30188,11/01/2025,Mobile App,System Error,Login Error,Login Error reported via mobile app,TXN858856,37153,KES,Critical,Resolved,12/01/2025,Operations,2
+C00537,CUST13728,15/01/2025,Online Banking,System Error,ATM Failure,ATM Failure reported via online banking,,0,KES,Medium,In Progress,,Customer Experience,
+C00538,CUST77177,09/01/2025,Call Center,System Error,ATM Failure,ATM Failure reported via call center,TXN981992,17402,KES,High,Resolved,10/01/2025,Operations,4
+C00539,CUST16932,15/12/2024,Call Center,Erroneous Deduction,Double Debit,Double Debit reported via call center,,0,KES,Medium,Resolved,18/12/2024,IT Operations,3
+C00540,CUST92317,11/01/2025,Online Banking,System Error,ATM Failure,ATM Failure reported via online banking,,0,KES,High,In Progress,,Operations,
+C00541,CUST80047,06/01/2025,Online Banking,Delay,Card Delivery Delay,Card Delivery Delay reported via online banking,TXN979684,20231,KES,Critical,Resolved,09/01/2025,Operations,2
+C00542,CUST30257,07/01/2025,Call Center,Delay,Transaction Delay,Transaction Delay reported via call center,,0,KES,Medium,Resolved,08/01/2025,Operations,3
+C00543,CUST28220,08/01/2025,Branch,Delay,Complaint Handling Delay,Complaint Handling Delay reported via branch,TXN891281,1638,KES,Medium,Resolved,11/01/2025,IT Operations,4
+C00544,CUST26429,03/01/2025,Online Banking,Erroneous Deduction,Double Debit,Double Debit reported via online banking,,0,KES,High,Resolved,05/01/2025,IT Operations,4
+C00545,CUST24131,06/01/2025,Mobile App,System Error,ATM Failure,ATM Failure reported via mobile app,,0,KES,High,In Progress,,IT Operations,
+C00546,CUST87018,15/01/2025,Mobile App,Delay,Complaint Handling Delay,Complaint Handling Delay reported via mobile app,,0,KES,Low,Resolved,16/01/2025,Operations,3
+C00547,CUST31044,20/12/2024,Mobile App,Erroneous Deduction,Double Debit,Double Debit reported via mobile app,TXN892327,38494,KES,Critical,In Progress,,Finance Ops,
+C00548,CUST80402,03/01/2025,Mobile App,System Error,ATM Failure,ATM Failure reported via mobile app,,0,KES,High,Resolved,06/01/2025,Branch Operations,3
+C00549,CUST59756,06/01/2025,Branch,Delay,Card Delivery Delay,Card Delivery Delay reported via branch,,0,KES,High,Resolved,08/01/2025,Operations,4
+C00550,CUST83024,13/01/2025,Mobile App,Delay,Complaint Handling Delay,Complaint Handling Delay reported via mobile app,TXN999825,9407,KES,Medium,Resolved,16/01/2025,Operations,4
+C00551,CUST48088,17/12/2024,Mobile App,Erroneous Deduction,Phantom Debit,Phantom Debit reported via mobile app,TXN859211,20947,KES,Medium,Resolved,22/12/2024,Customer Experience,5
+C00552,CUST61952,28/12/2024,Branch,System Error,ATM Failure,ATM Failure reported via branch,,0,KES,Medium,In Progress,,Operations,
+C00553,CUST36094,15/01/2025,ATM,Delay,Transaction Delay,Transaction Delay reported via atm,,0,KES,High,Resolved,16/01/2025,Customer Experience,4
+C00554,CUST72367,14/01/2025,ATM,System Error,ATM Failure,ATM Failure reported via atm,TXN998260,47259,KES,High,Resolved,18/01/2025,Customer Experience,4
+C00555,CUST13895,27/12/2024,Online Banking,Customer Service Failure,No Follow-up,No Follow-up reported via online banking,TXN930357,16929,KES,High,Resolved,29/12/2024,Finance Ops,3
+C00556,CUST20029,05/01/2025,Mobile App,Delay,Complaint Handling Delay,Complaint Handling Delay reported via mobile app,TXN963044,10509,KES,Medium,Resolved,10/01/2025,Finance Ops,2
+C00557,CUST14141,31/12/2024,ATM,Customer Service Failure,Long Wait Time,Long Wait Time reported via atm,TXN941696,17648,KES,High,Resolved,05/01/2025,Operations,2
+C00558,CUST66450,18/12/2024,Online Banking,Customer Service Failure,Long Wait Time,Long Wait Time reported via online banking,TXN985089,12091,KES,High,Resolved,20/12/2024,Customer Experience,5
+C00559,CUST76412,11/01/2025,Call Center,System Error,ATM Failure,ATM Failure reported via call center,TXN924757,38000,KES,High,Resolved,16/01/2025,Customer Experience,3
+C00560,CUST26803,09/01/2025,Call Center,System Error,Login Error,Login Error reported via call center,,0,KES,High,Resolved,14/01/2025,Operations,2
+C00561,CUST42455,26/12/2024,Online Banking,Delay,Card Delivery Delay,Card Delivery Delay reported via online banking,TXN892083,23920,KES,Low,Resolved,27/12/2024,Customer Experience,3
+C00562,CUST84455,09/01/2025,Mobile App,Delay,Card Delivery Delay,Card Delivery Delay reported via mobile app,TXN809798,35785,KES,Medium,Resolved,13/01/2025,Operations,5
+C00563,CUST74010,11/01/2025,Branch,System Error,ATM Failure,ATM Failure reported via branch,TXN884520,37878,KES,Low,Resolved,16/01/2025,Branch Operations,2
+C00564,CUST75136,15/01/2025,Branch,Delay,Complaint Handling Delay,Complaint Handling Delay reported via branch,TXN895245,11420,KES,Critical,Resolved,19/01/2025,Branch Operations,3
+C00565,CUST87576,06/01/2025,Online Banking,Delay,Complaint Handling Delay,Complaint Handling Delay reported via online banking,,0,KES,Medium,Resolved,11/01/2025,IT Operations,2
+C00566,CUST36224,06/01/2025,ATM,System Error,Login Error,Login Error reported via atm,TXN913484,20281,KES,High,Resolved,11/01/2025,Operations,4
+C00567,CUST84202,09/01/2025,Mobile App,System Error,App Crash,App Crash reported via mobile app,TXN870237,14456,KES,Critical,Resolved,14/01/2025,Branch Operations,5
+C00568,CUST51766,16/12/2024,Branch,System Error,Failed Reversal,Failed Reversal reported via branch,TXN907547,20178,KES,Medium,In Progress,,Finance Ops,
+C00569,CUST24884,17/12/2024,Online Banking,System Error,Login Error,Login Error reported via online banking,,0,KES,High,Resolved,21/12/2024,Operations,3
+C00570,CUST45744,05/01/2025,Branch,Delay,Complaint Handling Delay,Complaint Handling Delay reported via branch,,0,KES,High,Resolved,07/01/2025,Customer Experience,3
+C00571,CUST63347,09/01/2025,Mobile App,System Error,App Crash,App Crash reported via mobile app,TXN957705,6000,KES,High,Resolved,12/01/2025,Customer Experience,2
+C00572,CUST21829,17/12/2024,ATM,Customer Service Failure,No Follow-up,No Follow-up reported via atm,TXN930141,8406,KES,Medium,In Progress,,Finance Ops,
+C00573,CUST28910,06/01/2025,Call Center,System Error,Failed Reversal,Failed Reversal reported via call center,,0,KES,Critical,In Progress,,Customer Experience,
+C00574,CUST81531,08/01/2025,Branch,System Error,Login Error,Login Error reported via branch,TXN983400,35461,KES,Critical,Resolved,09/01/2025,Operations,4
+C00575,CUST96798,15/01/2025,ATM,Delay,Complaint Handling Delay,Complaint Handling Delay reported via atm,,0,KES,High,Resolved,20/01/2025,Operations,2
+C00576,CUST80111,16/12/2024,Call Center,System Error,Failed Reversal,Failed Reversal reported via call center,,0,KES,Medium,In Progress,,Customer Experience,
+C00577,CUST31001,29/12/2024,Branch,Customer Service Failure,Rude Staff,Rude Staff reported via branch,TXN855151,15931,KES,Medium,In Progress,,Operations,
+C00578,CUST65360,04/01/2025,Branch,Erroneous Deduction,Incorrect Fees,Incorrect Fees reported via branch,TXN993184,32723,KES,Medium,Resolved,08/01/2025,IT Operations,4
+C00579,CUST94066,18/12/2024,Call Center,System Error,Failed Reversal,Failed Reversal reported via call center,TXN918819,36395,KES,Medium,Resolved,19/12/2024,IT Operations,2
+C00580,CUST42716,15/01/2025,Mobile App,System Error,App Crash,App Crash reported via mobile app,,0,KES,Medium,Resolved,16/01/2025,Customer Experience,3
+C00581,CUST87728,15/01/2025,Branch,Delay,Card Delivery Delay,Card Delivery Delay reported via branch,TXN845476,9249,KES,High,In Progress,,Operations,
+C00582,CUST12717,24/12/2024,Branch,System Error,ATM Failure,ATM Failure reported via branch,,0,KES,Medium,In Progress,,Operations,
+C00583,CUST66217,01/01/2025,Branch,System Error,ATM Failure,ATM Failure reported via branch,TXN962006,3762,KES,Medium,In Progress,,Finance Ops,
+C00584,CUST74769,07/01/2025,ATM,Delay,Complaint Handling Delay,Complaint Handling Delay reported via atm,TXN976582,29018,KES,Medium,In Progress,,Branch Operations,
+C00585,CUST64831,08/01/2025,Online Banking,Delay,Complaint Handling Delay,Complaint Handling Delay reported via online banking,,0,KES,Medium,Resolved,11/01/2025,Customer Experience,3
+C00586,CUST11352,07/01/2025,Online Banking,Delay,Complaint Handling Delay,Complaint Handling Delay reported via online banking,TXN822475,24724,KES,High,In Progress,,Finance Ops,
+C00587,CUST40781,10/01/2025,Branch,System Error,App Crash,App Crash reported via branch,,0,KES,High,Resolved,11/01/2025,Customer Experience,4
+C00588,CUST86085,10/01/2025,Online Banking,Delay,Transaction Delay,Transaction Delay reported via online banking,TXN834665,26366,KES,High,Resolved,15/01/2025,Branch Operations,2
+C00589,CUST44131,07/01/2025,Branch,System Error,Failed Reversal,Failed Reversal reported via branch,,0,KES,Low,In Progress,,Finance Ops,
+C00590,CUST31624,05/01/2025,Online Banking,Delay,Complaint Handling Delay,Complaint Handling Delay reported via online banking,TXN935521,17750,KES,Critical,Resolved,08/01/2025,Operations,5
+C00591,CUST31437,12/01/2025,Branch,Delay,Card Delivery Delay,Card Delivery Delay reported via branch,,0,KES,Medium,Resolved,16/01/2025,IT Operations,4
+C00592,CUST24744,28/12/2024,Mobile App,Delay,Complaint Handling Delay,Complaint Handling Delay reported via mobile app,TXN929233,32298,KES,Medium,In Progress,,Customer Experience,
+C00593,CUST86486,19/12/2024,Mobile App,Delay,Complaint Handling Delay,Complaint Handling Delay reported via mobile app,TXN947651,11529,KES,Critical,Resolved,24/12/2024,Finance Ops,3
+C00594,CUST61664,15/12/2024,Mobile App,System Error,Login Error,Login Error reported via mobile app,,0,KES,High,Resolved,18/12/2024,Finance Ops,2
+C00595,CUST45300,06/01/2025,Mobile App,System Error,App Crash,App Crash reported via mobile app,TXN964719,31947,KES,High,In Progress,,IT Operations,
+C00596,CUST37704,05/01/2025,Call Center,System Error,ATM Failure,ATM Failure reported via call center,,0,KES,Medium,In Progress,,Customer Experience,
+C00597,CUST62286,04/01/2025,Mobile App,Erroneous Deduction,Phantom Debit,Phantom Debit reported via mobile app,TXN866889,6565,KES,High,Resolved,06/01/2025,IT Operations,3
+C00598,CUST49131,08/01/2025,Branch,Delay,Complaint Handling Delay,Complaint Handling Delay reported via branch,,0,KES,High,In Progress,,Operations,
+C00599,CUST83801,11/01/2025,Online Banking,System Error,App Crash,App Crash reported via online banking,TXN901735,32587,KES,Critical,Resolved,15/01/2025,IT Operations,4
+C00600,CUST74922,06/01/2025,Call Center,System Error,Failed Reversal,Failed Reversal reported via call center,TXN921510,3150,KES,High,Resolved,08/01/2025,Finance Ops,3
+C00601,CUST26749,15/01/2025,Branch,Delay,Complaint Handling Delay,Complaint Handling Delay reported via branch,,0,KES,Low,In Progress,,Customer Experience,
+C00602,CUST64135,24/12/2024,Online Banking,System Error,Login Error,Login Error reported via online banking,,0,KES,Low,Resolved,29/12/2024,Branch Operations,5
+C00603,CUST15932,15/01/2025,Online Banking,System Error,Failed Reversal,Failed Reversal reported via online banking,TXN847068,7966,KES,Low,Resolved,17/01/2025,Branch Operations,5
+C00604,CUST89174,09/01/2025,Branch,System Error,Login Error,Login Error reported via branch,,0,KES,Critical,Resolved,11/01/2025,Branch Operations,2
+C00605,CUST49688,15/01/2025,Call Center,Delay,Complaint Handling Delay,Complaint Handling Delay reported via call center,TXN920628,11754,KES,Low,Resolved,19/01/2025,IT Operations,5
+C00606,CUST37424,14/01/2025,Online Banking,System Error,Login Error,Login Error reported via online banking,,0,KES,Medium,Resolved,16/01/2025,IT Operations,2
+C00607,CUST12859,07/01/2025,Call Center,Delay,Complaint Handling Delay,Complaint Handling Delay reported via call center,TXN910593,10210,KES,Low,In Progress,,Finance Ops,
+C00608,CUST53758,07/01/2025,Branch,System Error,Login Error,Login Error reported via branch,TXN949272,13694,KES,Critical,Resolved,11/01/2025,IT Operations,2
+C00609,CUST73714,15/01/2025,Branch,System Error,Login Error,Login Error reported via branch,,0,KES,High,Resolved,19/01/2025,Branch Operations,5
+C00610,CUST72041,14/01/2025,Mobile App,System Error,App Crash,App Crash reported via mobile app,,0,KES,Low,Resolved,17/01/2025,Branch Operations,5
+C00611,CUST40422,14/01/2025,Branch,System Error,Login Error,Login Error reported via branch,TXN914848,31252,KES,Medium,In Progress,,IT Operations,
+C00612,CUST47022,14/01/2025,ATM,System Error,Login Error,Login Error reported via atm,TXN923817,27819,KES,High,Resolved,16/01/2025,Operations,3
+C00613,CUST82984,17/12/2024,ATM,Customer Service Failure,Rude Staff,Rude Staff reported via atm,TXN879600,27761,KES,Medium,Resolved,19/12/2024,Finance Ops,3
+C00614,CUST18344,05/01/2025,Online Banking,System Error,Failed Reversal,Failed Reversal reported via online banking,,0,KES,Medium,In Progress,,Finance Ops,
+C00615,CUST83010,06/01/2025,Call Center,Delay,Transaction Delay,Transaction Delay reported via call center,,0,KES,High,In Progress,,Finance Ops,
+C00616,CUST90028,07/01/2025,Mobile App,Delay,Card Delivery Delay,Card Delivery Delay reported via mobile app,,0,KES,High,In Progress,,Customer Experience,
+C00617,CUST48289,06/01/2025,Mobile App,Delay,Card Delivery Delay,Card Delivery Delay reported via mobile app,,0,KES,High,In Progress,,Finance Ops,
+C00618,CUST64493,31/12/2024,Mobile App,Customer Service Failure,No Follow-up,No Follow-up reported via mobile app,,0,KES,High,Resolved,02/01/2025,Finance Ops,5
+C00619,CUST79422,15/12/2024,Online Banking,System Error,Login Error,Login Error reported via online banking,TXN894540,24907,KES,High,Resolved,17/12/2024,Operations,3
+C00620,CUST68009,08/01/2025,Branch,Delay,Complaint Handling Delay,Complaint Handling Delay reported via branch,TXN807802,34326,KES,Critical,In Progress,,Customer Experience,
+C00621,CUST61546,05/01/2025,Online Banking,Delay,Transaction Delay,Transaction Delay reported via online banking,,0,KES,High,In Progress,,Operations,
+C00622,CUST51116,04/01/2025,Call Center,System Error,ATM Failure,ATM Failure reported via call center,TXN989150,46426,KES,High,In Progress,,Operations,
+C00623,CUST35859,15/12/2024,Call Center,Erroneous Deduction,Incorrect Fees,Incorrect Fees reported via call center,TXN982837,13943,KES,High,Resolved,18/12/2024,Finance Ops,5
+C00624,CUST22166,17/12/2024,Online Banking,Delay,Card Delivery Delay,Card Delivery Delay reported via online banking,TXN856029,8757,KES,High,In Progress,,Customer Experience,
+C00625,CUST76227,09/01/2025,Mobile App,System Error,App Crash,App Crash reported via mobile app,,0,KES,Critical,Resolved,12/01/2025,IT Operations,5
+C00626,CUST85030,05/01/2025,Call Center,System Error,Failed Reversal,Failed Reversal reported via call center,TXN878108,8675,KES,Medium,In Progress,,Operations,
+C00627,CUST55919,29/12/2024,Call Center,Erroneous Deduction,Double Debit,Double Debit reported via call center,,0,KES,High,In Progress,,Branch Operations,
+C00628,CUST22843,15/01/2025,Branch,Delay,Card Delivery Delay,Card Delivery Delay reported via branch,,0,KES,High,Resolved,18/01/2025,Branch Operations,5
+C00629,CUST87101,11/01/2025,Mobile App,System Error,ATM Failure,ATM Failure reported via mobile app,TXN820466,14576,KES,High,Resolved,14/01/2025,IT Operations,5
+C00630,CUST28919,11/01/2025,Branch,System Error,Login Error,Login Error reported via branch,TXN842688,48453,KES,High,In Progress,,Customer Experience,
+C00631,CUST25566,12/01/2025,Call Center,System Error,App Crash,App Crash reported via call center,,0,KES,Medium,Resolved,14/01/2025,Branch Operations,4
+C00632,CUST48532,11/01/2025,Online Banking,Delay,Transaction Delay,Transaction Delay reported via online banking,TXN879934,8216,KES,Medium,Resolved,14/01/2025,Branch Operations,4
+C00633,CUST10273,07/01/2025,Branch,Delay,Card Delivery Delay,Card Delivery Delay reported via branch,,0,KES,Critical,Resolved,09/01/2025,IT Operations,5
+C00634,CUST28156,10/01/2025,Branch,Delay,Transaction Delay,Transaction Delay reported via branch,TXN924578,22639,KES,High,Resolved,15/01/2025,Customer Experience,3
+C00635,CUST54433,12/01/2025,ATM,System Error,Login Error,Login Error reported via atm,TXN901511,41367,KES,Low,Resolved,14/01/2025,Operations,5
+C00636,CUST35221,15/01/2025,Mobile App,System Error,Failed Reversal,Failed Reversal reported via mobile app,TXN947074,46860,KES,High,Resolved,16/01/2025,Finance Ops,2
+C00637,CUST12486,01/01/2025,Call Center,Delay,Card Delivery Delay,Card Delivery Delay reported via call center,,0,KES,High,Resolved,06/01/2025,Finance Ops,3
+C00638,CUST13049,08/01/2025,Call Center,Delay,Card Delivery Delay,Card Delivery Delay reported via call center,TXN954374,21499,KES,Low,Resolved,09/01/2025,Customer Experience,5
+C00639,CUST33942,07/01/2025,Call Center,System Error,ATM Failure,ATM Failure reported via call center,,0,KES,Medium,Resolved,10/01/2025,Operations,3
+C00640,CUST17667,06/01/2025,Branch,Delay,Complaint Handling Delay,Complaint Handling Delay reported via branch,,0,KES,Low,In Progress,,Finance Ops,
+C00641,CUST36549,06/01/2025,Branch,System Error,App Crash,App Crash reported via branch,,0,KES,Medium,In Progress,,Operations,
+C00642,CUST18579,14/01/2025,Call Center,Delay,Complaint Handling Delay,Complaint Handling Delay reported via call center,TXN921850,4473,KES,Medium,Resolved,19/01/2025,Branch Operations,5
+C00643,CUST68455,11/01/2025,Online Banking,Delay,Transaction Delay,Transaction Delay reported via online banking,,0,KES,Critical,Resolved,14/01/2025,Branch Operations,5
+C00644,CUST69210,15/01/2025,Online Banking,Delay,Transaction Delay,Transaction Delay reported via online banking,TXN945529,35727,KES,Critical,In Progress,,Branch Operations,
+C00645,CUST92864,12/01/2025,Mobile App,System Error,App Crash,App Crash reported via mobile app,TXN978257,39681,KES,Critical,Resolved,16/01/2025,IT Operations,4
+C00646,CUST66618,13/01/2025,ATM,System Error,ATM Failure,ATM Failure reported via atm,,0,KES,High,Resolved,15/01/2025,Branch Operations,4
+C00647,CUST12080,13/01/2025,Online Banking,System Error,Failed Reversal,Failed Reversal reported via online banking,TXN855213,21578,KES,Medium,Resolved,17/01/2025,Customer Experience,4
+C00648,CUST95078,19/12/2024,Branch,Delay,Card Delivery Delay,Card Delivery Delay reported via branch,TXN999875,27577,KES,Critical,Resolved,23/12/2024,IT Operations,2
+C00649,CUST33224,01/01/2025,Branch,Delay,Card Delivery Delay,Card Delivery Delay reported via branch,TXN901384,39907,KES,Medium,In Progress,,IT Operations,
+C00650,CUST21792,15/12/2024,Online Banking,Delay,Complaint Handling Delay,Complaint Handling Delay reported via online banking,TXN978403,1796,KES,High,Resolved,18/12/2024,Finance Ops,3
+C00651,CUST89433,04/01/2025,ATM,Erroneous Deduction,Incorrect Fees,Incorrect Fees reported via atm,TXN929194,2911,KES,Critical,In Progress,,Finance Ops,
+C00652,CUST18526,08/01/2025,Online Banking,System Error,ATM Failure,ATM Failure reported via online banking,,0,KES,High,Resolved,09/01/2025,Branch Operations,3
+C00653,CUST10256,14/01/2025,Online Banking,Delay,Card Delivery Delay,Card Delivery Delay reported via online banking,TXN978436,45915,KES,Critical,Resolved,19/01/2025,Finance Ops,5
+C00654,CUST39431,04/01/2025,Branch,Delay,Complaint Handling Delay,Complaint Handling Delay reported via branch,TXN894757,31078,KES,Medium,Resolved,09/01/2025,Customer Experience,2
+C00655,CUST19757,11/01/2025,Mobile App,System Error,Failed Reversal,Failed Reversal reported via mobile app,,0,KES,Medium,Resolved,13/01/2025,Customer Experience,5
+C00656,CUST42821,21/12/2024,Online Banking,System Error,Failed Reversal,Failed Reversal reported via online banking,TXN806297,31955,KES,High,Resolved,26/12/2024,IT Operations,4
+C00657,CUST21211,12/01/2025,Mobile App,Delay,Complaint Handling Delay,Complaint Handling Delay reported via mobile app,TXN825079,5278,KES,High,Resolved,16/01/2025,Operations,2
+C00658,CUST92075,16/12/2024,Mobile App,Customer Service Failure,Long Wait Time,Long Wait Time reported via mobile app,TXN960101,4090,KES,Low,In Progress,,Finance Ops,
+C00659,CUST69429,06/01/2025,Mobile App,Delay,Card Delivery Delay,Card Delivery Delay reported via mobile app,TXN861108,40955,KES,Critical,Resolved,11/01/2025,Operations,2
+C00660,CUST87710,11/01/2025,Mobile App,Delay,Complaint Handling Delay,Complaint Handling Delay reported via mobile app,,0,KES,High,Resolved,12/01/2025,Customer Experience,2
+C00661,CUST17928,21/12/2024,Online Banking,System Error,Failed Reversal,Failed Reversal reported via online banking,,0,KES,High,Resolved,23/12/2024,Customer Experience,2
+C00662,CUST89079,14/01/2025,Online Banking,System Error,Failed Reversal,Failed Reversal reported via online banking,TXN880917,10160,KES,Critical,In Progress,,Branch Operations,
+C00663,CUST35612,10/01/2025,Call Center,Delay,Card Delivery Delay,Card Delivery Delay reported via call center,,0,KES,Low,Resolved,14/01/2025,Finance Ops,4
+C00664,CUST90753,04/01/2025,Online Banking,System Error,ATM Failure,ATM Failure reported via online banking,TXN951626,31131,KES,High,Resolved,09/01/2025,Finance Ops,4
+C00665,CUST40182,10/01/2025,Branch,Delay,Transaction Delay,Transaction Delay reported via branch,,0,KES,High,In Progress,,IT Operations,
+C00666,CUST13934,08/01/2025,Online Banking,Delay,Complaint Handling Delay,Complaint Handling Delay reported via online banking,TXN802593,940,KES,Medium,Resolved,09/01/2025,Customer Experience,4
+C00667,CUST32825,07/01/2025,ATM,System Error,Login Error,Login Error reported via atm,,0,KES,Critical,Resolved,09/01/2025,Branch Operations,4
+C00668,CUST59666,09/01/2025,Call Center,Delay,Complaint Handling Delay,Complaint Handling Delay reported via call center,,0,KES,Medium,Resolved,10/01/2025,Finance Ops,3
+C00669,CUST79065,18/12/2024,Online Banking,Erroneous Deduction,Double Debit,Double Debit reported via online banking,,0,KES,Medium,In Progress,,Customer Experience,
+C00670,CUST79803,03/01/2025,Mobile App,Customer Service Failure,No Follow-up,No Follow-up reported via mobile app,,0,KES,Medium,In Progress,,IT Operations,
+C00671,CUST16980,10/01/2025,ATM,System Error,Login Error,Login Error reported via atm,TXN838945,35592,KES,High,Resolved,13/01/2025,IT Operations,3
+C00672,CUST94550,09/01/2025,Call Center,Delay,Card Delivery Delay,Card Delivery Delay reported via call center,,0,KES,Medium,Resolved,11/01/2025,Customer Experience,5
+C00673,CUST45171,26/12/2024,Branch,Customer Service Failure,No Follow-up,No Follow-up reported via branch,TXN987603,46015,KES,Medium,Resolved,30/12/2024,Finance Ops,5
+C00674,CUST59034,15/01/2025,ATM,Delay,Transaction Delay,Transaction Delay reported via atm,TXN911417,14825,KES,High,Resolved,19/01/2025,Finance Ops,3
+C00675,CUST65850,06/01/2025,Online Banking,Delay,Transaction Delay,Transaction Delay reported via online banking,TXN934286,3196,KES,High,Resolved,11/01/2025,Customer Experience,4
+C00676,CUST57067,11/01/2025,Branch,System Error,Failed Reversal,Failed Reversal reported via branch,,0,KES,Medium,Resolved,14/01/2025,Operations,2
+C00677,CUST98487,24/12/2024,ATM,Delay,Complaint Handling Delay,Complaint Handling Delay reported via atm,,0,KES,Medium,Resolved,27/12/2024,IT Operations,3
+C00678,CUST49252,09/01/2025,Call Center,System Error,App Crash,App Crash reported via call center,TXN802237,48984,KES,Critical,In Progress,,Finance Ops,
+C00679,CUST72185,10/01/2025,Call Center,System Error,Login Error,Login Error reported via call center,TXN859658,10283,KES,High,Resolved,12/01/2025,IT Operations,3
+C00680,CUST83196,14/01/2025,Online Banking,System Error,Login Error,Login Error reported via online banking,TXN854941,46240,KES,Medium,Resolved,18/01/2025,IT Operations,5
+C00681,CUST64938,07/01/2025,Mobile App,Delay,Complaint Handling Delay,Complaint Handling Delay reported via mobile app,,0,KES,Critical,In Progress,,Customer Experience,
+C00682,CUST59980,11/01/2025,Call Center,System Error,Failed Reversal,Failed Reversal reported via call center,,0,KES,High,Resolved,14/01/2025,IT Operations,5
+C00683,CUST98458,11/01/2025,Branch,Delay,Card Delivery Delay,Card Delivery Delay reported via branch,TXN824442,30091,KES,High,Resolved,13/01/2025,Finance Ops,2
+C00684,CUST40544,05/01/2025,ATM,System Error,ATM Failure,ATM Failure reported via atm,,0,KES,Low,In Progress,,Finance Ops,
+C00685,CUST80313,13/01/2025,Mobile App,Delay,Complaint Handling Delay,Complaint Handling Delay reported via mobile app,TXN841165,27426,KES,High,Resolved,14/01/2025,Operations,3
+C00686,CUST89129,06/01/2025,ATM,System Error,App Crash,App Crash reported via atm,TXN841623,44067,KES,Medium,In Progress,,Finance Ops,
+C00687,CUST62328,09/01/2025,Branch,Delay,Card Delivery Delay,Card Delivery Delay reported via branch,,0,KES,Medium,In Progress,,Operations,
+C00688,CUST48987,08/01/2025,Branch,System Error,Login Error,Login Error reported via branch,TXN890906,19368,KES,High,In Progress,,Customer Experience,
+C00689,CUST61583,07/01/2025,ATM,System Error,App Crash,App Crash reported via atm,,0,KES,High,Resolved,12/01/2025,Branch Operations,2
+C00690,CUST74682,16/12/2024,Online Banking,System Error,App Crash,App Crash reported via online banking,,0,KES,Medium,In Progress,,Branch Operations,
+C00691,CUST43130,13/01/2025,Mobile App,Delay,Complaint Handling Delay,Complaint Handling Delay reported via mobile app,TXN843211,27376,KES,High,In Progress,,IT Operations,
+C00692,CUST11407,05/01/2025,Mobile App,System Error,ATM Failure,ATM Failure reported via mobile app,TXN809902,13240,KES,Medium,In Progress,,Customer Experience,
+C00693,CUST31150,07/01/2025,Branch,System Error,Login Error,Login Error reported via branch,TXN836767,16378,KES,Low,Resolved,11/01/2025,Customer Experience,4
+C00694,CUST67757,05/01/2025,Online Banking,Delay,Transaction Delay,Transaction Delay reported via online banking,,0,KES,High,Resolved,08/01/2025,IT Operations,3
+C00695,CUST68194,08/01/2025,Call Center,Delay,Card Delivery Delay,Card Delivery Delay reported via call center,,0,KES,High,Resolved,12/01/2025,Finance Ops,4
+C00696,CUST11908,05/01/2025,ATM,Delay,Complaint Handling Delay,Complaint Handling Delay reported via atm,,0,KES,Medium,Resolved,09/01/2025,Finance Ops,2
+C00697,CUST83669,08/01/2025,Mobile App,Delay,Transaction Delay,Transaction Delay reported via mobile app,,0,KES,High,Resolved,11/01/2025,Finance Ops,4
+C00698,CUST95720,14/01/2025,Branch,Delay,Card Delivery Delay,Card Delivery Delay reported via branch,TXN845513,23868,KES,Medium,Resolved,15/01/2025,Customer Experience,5
+C00699,CUST63883,11/01/2025,ATM,Delay,Complaint Handling Delay,Complaint Handling Delay reported via atm,TXN811518,41388,KES,High,Resolved,12/01/2025,IT Operations,3
+C00700,CUST60930,14/01/2025,Call Center,System Error,ATM Failure,ATM Failure reported via call center,TXN965379,39812,KES,Medium,In Progress,,Branch Operations,
+C00701,CUST75984,19/12/2024,Online Banking,Erroneous Deduction,Double Debit,Double Debit reported via online banking,TXN900236,38840,KES,Low,Resolved,24/12/2024,Customer Experience,3
+C00702,CUST17854,05/01/2025,Call Center,Delay,Transaction Delay,Transaction Delay reported via call center,,0,KES,Medium,In Progress,,IT Operations,
+C00703,CUST46454,12/01/2025,ATM,System Error,App Crash,App Crash reported via atm,TXN993791,48033,KES,Medium,Resolved,15/01/2025,Customer Experience,3
+C00704,CUST97163,05/01/2025,Mobile App,System Error,Failed Reversal,Failed Reversal reported via mobile app,,0,KES,Critical,Resolved,10/01/2025,Finance Ops,2
+C00705,CUST93147,22/12/2024,Online Banking,Customer Service Failure,No Follow-up,No Follow-up reported via online banking,,0,KES,High,Resolved,24/12/2024,Finance Ops,2
+C00706,CUST76509,21/12/2024,ATM,System Error,ATM Failure,ATM Failure reported via atm,,0,KES,High,In Progress,,Branch Operations,
+C00707,CUST45633,12/01/2025,ATM,System Error,App Crash,App Crash reported via atm,TXN951105,20364,KES,High,Resolved,16/01/2025,Finance Ops,3
+C00708,CUST12596,30/12/2024,Branch,Delay,Complaint Handling Delay,Complaint Handling Delay reported via branch,TXN999314,33614,KES,Medium,Resolved,01/01/2025,Customer Experience,5
+C00709,CUST50088,28/12/2024,Call Center,Delay,Complaint Handling Delay,Complaint Handling Delay reported via call center,TXN921543,17361,KES,Medium,In Progress,,Branch Operations,
+C00710,CUST74415,11/01/2025,Online Banking,System Error,ATM Failure,ATM Failure reported via online banking,,0,KES,High,Resolved,12/01/2025,Finance Ops,4
+C00711,CUST26315,11/01/2025,Branch,System Error,Failed Reversal,Failed Reversal reported via branch,TXN810178,5168,KES,Medium,In Progress,,Customer Experience,
+C00712,CUST58258,14/01/2025,Branch,Delay,Transaction Delay,Transaction Delay reported via branch,TXN966456,23344,KES,High,In Progress,,Operations,
+C00713,CUST97251,04/01/2025,ATM,Customer Service Failure,Long Wait Time,Long Wait Time reported via atm,,0,KES,High,In Progress,,Finance Ops,
+C00714,CUST25300,09/01/2025,Online Banking,System Error,App Crash,App Crash reported via online banking,,0,KES,High,In Progress,,Finance Ops,
+C00715,CUST49612,04/01/2025,Call Center,Customer Service Failure,Long Wait Time,Long Wait Time reported via call center,,0,KES,High,Resolved,08/01/2025,IT Operations,4
+C00716,CUST62162,13/01/2025,Branch,System Error,Failed Reversal,Failed Reversal reported via branch,,0,KES,Medium,Resolved,16/01/2025,IT Operations,3
+C00717,CUST32365,15/12/2024,Mobile App,System Error,Login Error,Login Error reported via mobile app,TXN971578,34903,KES,Low,Resolved,18/12/2024,IT Operations,5
+C00718,CUST17730,07/01/2025,Branch,Delay,Transaction Delay,Transaction Delay reported via branch,,0,KES,High,Resolved,09/01/2025,Finance Ops,3
+C00719,CUST46275,21/12/2024,Branch,Erroneous Deduction,Phantom Debit,Phantom Debit reported via branch,TXN822467,5730,KES,Medium,Resolved,25/12/2024,Branch Operations,2
+C00720,CUST78463,05/01/2025,Branch,Delay,Complaint Handling Delay,Complaint Handling Delay reported via branch,,0,KES,Low,Resolved,06/01/2025,IT Operations,3
+C00721,CUST97173,27/12/2024,Branch,Erroneous Deduction,Phantom Debit,Phantom Debit reported via branch,TXN882634,45186,KES,High,Resolved,29/12/2024,Operations,4
+C00722,CUST13365,14/01/2025,Online Banking,Delay,Complaint Handling Delay,Complaint Handling Delay reported via online banking,,0,KES,Low,In Progress,,IT Operations,
+C00723,CUST93633,13/01/2025,Online Banking,System Error,App Crash,App Crash reported via online banking,TXN973074,31642,KES,High,Resolved,15/01/2025,Customer Experience,2
+C00724,CUST89529,25/12/2024,Online Banking,Delay,Card Delivery Delay,Card Delivery Delay reported via online banking,TXN861225,44928,KES,Critical,In Progress,,IT Operations,
+C00725,CUST89583,14/01/2025,Branch,Delay,Complaint Handling Delay,Complaint Handling Delay reported via branch,TXN877034,7083,KES,Critical,In Progress,,Customer Experience,
+C00726,CUST73198,07/01/2025,Branch,Delay,Transaction Delay,Transaction Delay reported via branch,TXN844054,36462,KES,Medium,Resolved,11/01/2025,IT Operations,2
+C00727,CUST52795,22/12/2024,ATM,System Error,App Crash,App Crash reported via atm,,0,KES,Medium,In Progress,,IT Operations,
+C00728,CUST53620,23/12/2024,Branch,System Error,Failed Reversal,Failed Reversal reported via branch,TXN823708,42020,KES,High,In Progress,,IT Operations,
+C00729,CUST94161,02/01/2025,Online Banking,Delay,Card Delivery Delay,Card Delivery Delay reported via online banking,TXN971421,48015,KES,Critical,In Progress,,Customer Experience,
+C00730,CUST26700,28/12/2024,Online Banking,System Error,App Crash,App Crash reported via online banking,,0,KES,Medium,Resolved,29/12/2024,IT Operations,4
+C00731,CUST99037,27/12/2024,Mobile App,Delay,Complaint Handling Delay,Complaint Handling Delay reported via mobile app,TXN895688,28267,KES,High,In Progress,,Branch Operations,
+C00732,CUST29323,19/12/2024,Branch,System Error,ATM Failure,ATM Failure reported via branch,TXN857384,9983,KES,High,Resolved,23/12/2024,IT Operations,5
+C00733,CUST48206,07/01/2025,Online Banking,Delay,Card Delivery Delay,Card Delivery Delay reported via online banking,TXN965433,18420,KES,High,Resolved,09/01/2025,Operations,5
+C00734,CUST33464,27/12/2024,ATM,Delay,Complaint Handling Delay,Complaint Handling Delay reported via atm,,0,KES,Critical,In Progress,,Finance Ops,
+C00735,CUST19414,27/12/2024,ATM,Erroneous Deduction,Incorrect Fees,Incorrect Fees reported via atm,TXN891306,44926,KES,High,Resolved,31/12/2024,IT Operations,5
+C00736,CUST95804,09/01/2025,Call Center,System Error,App Crash,App Crash reported via call center,,0,KES,Low,Resolved,12/01/2025,Customer Experience,5
+C00737,CUST57477,07/01/2025,Online Banking,System Error,Login Error,Login Error reported via online banking,,0,KES,Medium,In Progress,,Finance Ops,
+C00738,CUST72111,02/01/2025,ATM,Delay,Card Delivery Delay,Card Delivery Delay reported via atm,,0,KES,Critical,Resolved,03/01/2025,Customer Experience,4
+C00739,CUST41569,05/01/2025,Online Banking,Delay,Card Delivery Delay,Card Delivery Delay reported via online banking,TXN864225,47853,KES,High,Resolved,06/01/2025,Branch Operations,2
+C00740,CUST92881,09/01/2025,Branch,Delay,Card Delivery Delay,Card Delivery Delay reported via branch,TXN872146,43118,KES,High,In Progress,,IT Operations,
+C00741,CUST45877,26/12/2024,Mobile App,Delay,Transaction Delay,Transaction Delay reported via mobile app,,0,KES,Medium,Resolved,27/12/2024,IT Operations,5
+C00742,CUST63127,18/12/2024,Branch,System Error,Login Error,Login Error reported via branch,,0,KES,Medium,Resolved,23/12/2024,Customer Experience,3
+C00743,CUST33680,15/12/2024,Call Center,Customer Service Failure,No Follow-up,No Follow-up reported via call center,,0,KES,High,Resolved,17/12/2024,Branch Operations,2
+C00744,CUST14588,20/12/2024,Branch,Delay,Card Delivery Delay,Card Delivery Delay reported via branch,,0,KES,Medium,Resolved,21/12/2024,Operations,4
+C00745,CUST49400,06/01/2025,Call Center,System Error,Failed Reversal,Failed Reversal reported via call center,,0,KES,High,In Progress,,Finance Ops,
+C00746,CUST41077,13/01/2025,ATM,System Error,Login Error,Login Error reported via atm,,0,KES,High,Resolved,14/01/2025,Branch Operations,2
+C00747,CUST19746,07/01/2025,ATM,System Error,App Crash,App Crash reported via atm,,0,KES,High,Resolved,12/01/2025,Branch Operations,5
+C00748,CUST19248,09/01/2025,Branch,System Error,App Crash,App Crash reported via branch,,0,KES,Low,Resolved,14/01/2025,Customer Experience,3
+C00749,CUST65009,09/01/2025,Online Banking,Delay,Card Delivery Delay,Card Delivery Delay reported via online banking,,0,KES,High,In Progress,,Branch Operations,
+C00750,CUST18645,25/12/2024,Mobile App,Customer Service Failure,Long Wait Time,Long Wait Time reported via mobile app,,0,KES,Medium,Resolved,30/12/2024,Branch Operations,5
+C00751,CUST59628,06/01/2025,Online Banking,System Error,Failed Reversal,Failed Reversal reported via online banking,,0,KES,Critical,Resolved,10/01/2025,Finance Ops,3
+C00752,CUST16286,18/12/2024,Call Center,System Error,Failed Reversal,Failed Reversal reported via call center,TXN944583,37996,KES,Low,Resolved,21/12/2024,Customer Experience,2
+C00753,CUST43955,11/01/2025,Call Center,Delay,Complaint Handling Delay,Complaint Handling Delay reported via call center,,0,KES,High,In Progress,,Branch Operations,
+C00754,CUST42651,13/01/2025,ATM,Delay,Card Delivery Delay,Card Delivery Delay reported via atm,TXN985467,3964,KES,Medium,In Progress,,Finance Ops,
+C00755,CUST93313,28/12/2024,Branch,Customer Service Failure,Rude Staff,Rude Staff reported via branch,TXN936470,18576,KES,High,Resolved,30/12/2024,Operations,4
+C00756,CUST21086,24/12/2024,Mobile App,Customer Service Failure,Long Wait Time,Long Wait Time reported via mobile app,,0,KES,Low,Resolved,29/12/2024,IT Operations,2
+C00757,CUST90777,01/01/2025,Branch,Customer Service Failure,Rude Staff,Rude Staff reported via branch,,0,KES,Critical,Resolved,05/01/2025,Branch Operations,2
+C00758,CUST32913,05/01/2025,ATM,System Error,Failed Reversal,Failed Reversal reported via atm,,0,KES,High,Resolved,10/01/2025,Branch Operations,3
+C00759,CUST48019,07/01/2025,Branch,System Error,ATM Failure,ATM Failure reported via branch,TXN978012,7920,KES,Medium,Resolved,09/01/2025,Customer Experience,2
+C00760,CUST70693,09/01/2025,Mobile App,System Error,App Crash,App Crash reported via mobile app,,0,KES,Medium,In Progress,,Branch Operations,
+C00761,CUST62699,30/12/2024,Mobile App,Delay,Complaint Handling Delay,Complaint Handling Delay reported via mobile app,,0,KES,High,Resolved,02/01/2025,Branch Operations,3
+C00762,CUST73886,06/01/2025,ATM,System Error,Login Error,Login Error reported via atm,,0,KES,High,In Progress,,IT Operations,
+C00763,CUST31211,15/01/2025,Branch,System Error,App Crash,App Crash reported via branch,TXN828493,12439,KES,Medium,Resolved,19/01/2025,Customer Experience,5
+C00764,CUST31012,11/01/2025,ATM,Delay,Complaint Handling Delay,Complaint Handling Delay reported via atm,TXN995015,26356,KES,Medium,Resolved,14/01/2025,IT Operations,2
+C00765,CUST52583,30/12/2024,Branch,Erroneous Deduction,Double Debit,Double Debit reported via branch,,0,KES,High,In Progress,,Customer Experience,
+C00766,CUST98907,27/12/2024,Mobile App,Customer Service Failure,Rude Staff,Rude Staff reported via mobile app,,0,KES,High,Resolved,29/12/2024,IT Operations,2
+C00767,CUST77009,28/12/2024,Branch,Delay,Complaint Handling Delay,Complaint Handling Delay reported via branch,,0,KES,Medium,Resolved,02/01/2025,Operations,3
+C00768,CUST34729,09/01/2025,ATM,Delay,Complaint Handling Delay,Complaint Handling Delay reported via atm,,0,KES,Medium,In Progress,,Customer Experience,
+C00769,CUST90801,02/01/2025,Mobile App,System Error,App Crash,App Crash reported via mobile app,,0,KES,High,Resolved,06/01/2025,Finance Ops,2
+C00770,CUST72809,05/01/2025,Call Center,System Error,Login Error,Login Error reported via call center,TXN911693,15034,KES,High,In Progress,,Operations,
+C00771,CUST51922,11/01/2025,Mobile App,Delay,Complaint Handling Delay,Complaint Handling Delay reported via mobile app,TXN864741,47134,KES,Medium,In Progress,,Operations,
+C00772,CUST43064,20/12/2024,Mobile App,Delay,Transaction Delay,Transaction Delay reported via mobile app,,0,KES,Medium,Resolved,24/12/2024,Operations,3
+C00773,CUST41228,26/12/2024,Mobile App,Erroneous Deduction,Phantom Debit,Phantom Debit reported via mobile app,TXN894520,9039,KES,High,Resolved,29/12/2024,IT Operations,4
+C00774,CUST22928,21/12/2024,Mobile App,Customer Service Failure,Rude Staff,Rude Staff reported via mobile app,,0,KES,High,Resolved,23/12/2024,Finance Ops,5
+C00775,CUST83445,13/01/2025,Branch,System Error,Failed Reversal,Failed Reversal reported via branch,,0,KES,High,Resolved,17/01/2025,Finance Ops,4
+C00776,CUST26899,26/12/2024,Mobile App,Customer Service Failure,No Follow-up,No Follow-up reported via mobile app,,0,KES,Low,Resolved,28/12/2024,Customer Experience,4
+C00777,CUST76752,14/01/2025,ATM,Delay,Card Delivery Delay,Card Delivery Delay reported via atm,,0,KES,High,Resolved,16/01/2025,Customer Experience,5
+C00778,CUST76036,11/01/2025,ATM,System Error,Failed Reversal,Failed Reversal reported via atm,,0,KES,Low,Resolved,16/01/2025,Finance Ops,5
+C00779,CUST48252,31/12/2024,ATM,Erroneous Deduction,Phantom Debit,Phantom Debit reported via atm,,0,KES,High,Resolved,01/01/2025,Operations,3
+C00780,CUST92927,07/01/2025,Online Banking,System Error,App Crash,App Crash reported via online banking,,0,KES,High,Resolved,08/01/2025,IT Operations,4
+C00781,CUST56593,10/01/2025,Call Center,System Error,ATM Failure,ATM Failure reported via call center,TXN885101,40574,KES,High,Resolved,11/01/2025,Operations,2
+C00782,CUST60067,09/01/2025,Mobile App,Delay,Complaint Handling Delay,Complaint Handling Delay reported via mobile app,,0,KES,High,In Progress,,Branch Operations,
+C00783,CUST66872,23/12/2024,ATM,System Error,Login Error,Login Error reported via atm,TXN840800,49841,KES,Medium,Resolved,27/12/2024,Operations,3
+C00784,CUST33646,12/01/2025,ATM,Delay,Complaint Handling Delay,Complaint Handling Delay reported via atm,TXN991228,12877,KES,Medium,In Progress,,Customer Experience,
+C00785,CUST69640,05/01/2025,ATM,System Error,App Crash,App Crash reported via atm,,0,KES,High,Resolved,09/01/2025,Customer Experience,3
+C00786,CUST59528,27/12/2024,Call Center,Delay,Card Delivery Delay,Card Delivery Delay reported via call center,,0,KES,High,In Progress,,Finance Ops,
+C00787,CUST81089,06/01/2025,Mobile App,Delay,Card Delivery Delay,Card Delivery Delay reported via mobile app,,0,KES,Medium,Resolved,07/01/2025,Finance Ops,2
+C00788,CUST72771,25/12/2024,ATM,Delay,Transaction Delay,Transaction Delay reported via atm,TXN886967,11191,KES,High,In Progress,,Customer Experience,
+C00789,CUST13145,05/01/2025,Mobile App,System Error,ATM Failure,ATM Failure reported via mobile app,TXN837181,34024,KES,Medium,Resolved,06/01/2025,IT Operations,3
+C00790,CUST24435,11/01/2025,Online Banking,Delay,Complaint Handling Delay,Complaint Handling Delay reported via online banking,,0,KES,Critical,Resolved,15/01/2025,Finance Ops,3
+C00791,CUST89233,09/01/2025,Call Center,System Error,ATM Failure,ATM Failure reported via call center,,0,KES,Medium,In Progress,,Operations,
+C00792,CUST75437,11/01/2025,Branch,System Error,App Crash,App Crash reported via branch,TXN891327,41444,KES,Critical,Resolved,12/01/2025,Finance Ops,4
+C00793,CUST46500,23/12/2024,ATM,Delay,Transaction Delay,Transaction Delay reported via atm,TXN817645,47773,KES,Medium,Resolved,24/12/2024,Finance Ops,5
+C00794,CUST95715,10/01/2025,Branch,Delay,Transaction Delay,Transaction Delay reported via branch,TXN957743,45944,KES,Medium,Resolved,13/01/2025,Operations,3
+C00795,CUST79067,27/12/2024,Branch,Customer Service Failure,No Follow-up,No Follow-up reported via branch,TXN821919,15580,KES,High,Resolved,01/01/2025,Branch Operations,5
+C00796,CUST24438,08/01/2025,Online Banking,Delay,Transaction Delay,Transaction Delay reported via online banking,TXN835020,24250,KES,Medium,In Progress,,IT Operations,
+C00797,CUST37621,10/01/2025,Online Banking,System Error,App Crash,App Crash reported via online banking,,0,KES,Medium,In Progress,,Customer Experience,
+C00798,CUST72498,16/12/2024,ATM,System Error,ATM Failure,ATM Failure reported via atm,TXN814177,28333,KES,High,Resolved,17/12/2024,Customer Experience,2
+C00799,CUST28364,20/12/2024,Online Banking,Delay,Transaction Delay,Transaction Delay reported via online banking,TXN839247,37801,KES,Low,Resolved,22/12/2024,Finance Ops,5
+C00800,CUST94207,24/12/2024,Online Banking,Customer Service Failure,Long Wait Time,Long Wait Time reported via online banking,,0,KES,High,Resolved,26/12/2024,Customer Experience,2
+C00801,CUST75781,07/01/2025,Branch,Delay,Transaction Delay,Transaction Delay reported via branch,TXN949963,36817,KES,High,In Progress,,Customer Experience,
+C00802,CUST62481,08/01/2025,Online Banking,System Error,App Crash,App Crash reported via online banking,,0,KES,High,In Progress,,IT Operations,
+C00803,CUST95550,08/01/2025,Call Center,System Error,App Crash,App Crash reported via call center,TXN882100,31199,KES,Critical,In Progress,,Branch Operations,
+C00804,CUST41395,11/01/2025,Online Banking,Delay,Transaction Delay,Transaction Delay reported via online banking,TXN958122,5599,KES,Medium,Resolved,14/01/2025,Customer Experience,2
+C00805,CUST93674,13/01/2025,ATM,Delay,Transaction Delay,Transaction Delay reported via atm,,0,KES,Low,In Progress,,Branch Operations,
+C00806,CUST16297,22/12/2024,Call Center,Erroneous Deduction,Double Debit,Double Debit reported via call center,,0,KES,Low,In Progress,,Branch Operations,
+C00807,CUST63383,09/01/2025,Online Banking,Delay,Complaint Handling Delay,Complaint Handling Delay reported via online banking,TXN833952,26101,KES,High,Resolved,10/01/2025,Customer Experience,4
+C00808,CUST29862,31/12/2024,ATM,Delay,Card Delivery Delay,Card Delivery Delay reported via atm,,0,KES,High,Resolved,03/01/2025,IT Operations,3
+C00809,CUST68652,17/12/2024,ATM,Delay,Card Delivery Delay,Card Delivery Delay reported via atm,,0,KES,Critical,Resolved,22/12/2024,Finance Ops,4
+C00810,CUST37370,25/12/2024,Call Center,Erroneous Deduction,Phantom Debit,Phantom Debit reported via call center,TXN862681,45252,KES,Low,In Progress,,Customer Experience,
+C00811,CUST69612,03/01/2025,Call Center,Delay,Transaction Delay,Transaction Delay reported via call center,,0,KES,Low,Resolved,07/01/2025,Customer Experience,2
+C00812,CUST67939,09/01/2025,Online Banking,Delay,Transaction Delay,Transaction Delay reported via online banking,TXN867618,12243,KES,Medium,Resolved,13/01/2025,Branch Operations,4
+C00813,CUST77171,19/12/2024,Branch,Delay,Card Delivery Delay,Card Delivery Delay reported via branch,,0,KES,Medium,Resolved,23/12/2024,IT Operations,4
+C00814,CUST91345,25/12/2024,Branch,Erroneous Deduction,Double Debit,Double Debit reported via branch,,0,KES,High,In Progress,,Branch Operations,
+C00815,CUST70591,16/12/2024,ATM,System Error,ATM Failure,ATM Failure reported via atm,,0,KES,Medium,Resolved,18/12/2024,IT Operations,5
+C00816,CUST53086,26/12/2024,Call Center,Customer Service Failure,Long Wait Time,Long Wait Time reported via call center,TXN913538,7600,KES,Medium,Resolved,28/12/2024,Customer Experience,5
+C00817,CUST84475,10/01/2025,Branch,System Error,App Crash,App Crash reported via branch,TXN838145,10706,KES,Medium,Resolved,12/01/2025,IT Operations,4
+C00818,CUST43039,14/01/2025,Online Banking,System Error,ATM Failure,ATM Failure reported via online banking,,0,KES,Critical,Resolved,18/01/2025,Customer Experience,4
+C00819,CUST38063,06/01/2025,Online Banking,Delay,Transaction Delay,Transaction Delay reported via online banking,TXN937567,30084,KES,Low,In Progress,,Customer Experience,
+C00820,CUST55780,23/12/2024,Mobile App,System Error,ATM Failure,ATM Failure reported via mobile app,,0,KES,Medium,In Progress,,Customer Experience,
+C00821,CUST20198,30/12/2024,ATM,Customer Service Failure,No Follow-up,No Follow-up reported via atm,,0,KES,Medium,Resolved,04/01/2025,Customer Experience,3
+C00822,CUST44446,02/01/2025,Online Banking,System Error,Failed Reversal,Failed Reversal reported via online banking,TXN882944,10165,KES,Medium,Resolved,03/01/2025,IT Operations,5
+C00823,CUST88766,05/01/2025,Branch,System Error,App Crash,App Crash reported via branch,TXN982569,12798,KES,Low,Resolved,10/01/2025,Branch Operations,3
+C00824,CUST95054,10/01/2025,Call Center,Delay,Transaction Delay,Transaction Delay reported via call center,TXN931618,20288,KES,Medium,Resolved,11/01/2025,IT Operations,5
+C00825,CUST33044,28/12/2024,Online Banking,Customer Service Failure,Long Wait Time,Long Wait Time reported via online banking,,0,KES,High,In Progress,,Branch Operations,
+C00826,CUST21484,10/01/2025,Call Center,Delay,Card Delivery Delay,Card Delivery Delay reported via call center,TXN966227,43727,KES,High,Resolved,13/01/2025,Finance Ops,2
+C00827,CUST97518,18/12/2024,Mobile App,Delay,Card Delivery Delay,Card Delivery Delay reported via mobile app,,0,KES,Critical,Resolved,22/12/2024,Branch Operations,2
+C00828,CUST64124,11/01/2025,Branch,Delay,Transaction Delay,Transaction Delay reported via branch,,0,KES,Medium,Resolved,14/01/2025,Branch Operations,5
+C00829,CUST10544,04/01/2025,Online Banking,Customer Service Failure,Rude Staff,Rude Staff reported via online banking,TXN880582,43667,KES,High,Resolved,08/01/2025,Finance Ops,3
+C00830,CUST32336,28/12/2024,Mobile App,Delay,Transaction Delay,Transaction Delay reported via mobile app,TXN887841,34510,KES,High,In Progress,,Finance Ops,
+C00831,CUST93397,28/12/2024,ATM,System Error,Login Error,Login Error reported via atm,TXN833782,38370,KES,High,In Progress,,Branch Operations,
+C00832,CUST92223,07/01/2025,Call Center,System Error,Failed Reversal,Failed Reversal reported via call center,,0,KES,High,Resolved,12/01/2025,Finance Ops,5
+C00833,CUST84946,01/01/2025,ATM,System Error,Failed Reversal,Failed Reversal reported via atm,,0,KES,Low,Resolved,02/01/2025,IT Operations,2
+C00834,CUST96410,07/01/2025,ATM,System Error,Failed Reversal,Failed Reversal reported via atm,,0,KES,High,Resolved,11/01/2025,Finance Ops,4
+C00835,CUST47022,06/01/2025,Mobile App,Delay,Card Delivery Delay,Card Delivery Delay reported via mobile app,,0,KES,Critical,Resolved,07/01/2025,Branch Operations,3
+C00836,CUST73768,07/01/2025,Branch,Delay,Transaction Delay,Transaction Delay reported via branch,TXN805755,7097,KES,Critical,Resolved,11/01/2025,Operations,2
+C00837,CUST33419,17/12/2024,Branch,System Error,Login Error,Login Error reported via branch,,0,KES,High,Resolved,20/12/2024,Operations,2
+C00838,CUST25937,04/01/2025,Online Banking,Delay,Transaction Delay,Transaction Delay reported via online banking,,0,KES,High,Resolved,06/01/2025,Operations,4
+C00839,CUST38804,05/01/2025,Call Center,Delay,Card Delivery Delay,Card Delivery Delay reported via call center,,0,KES,Medium,Resolved,08/01/2025,Finance Ops,3
+C00840,CUST77194,07/01/2025,Branch,System Error,Failed Reversal,Failed Reversal reported via branch,TXN922432,36642,KES,Critical,Resolved,11/01/2025,Finance Ops,5
+C00841,CUST66815,21/12/2024,ATM,Erroneous Deduction,Double Debit,Double Debit reported via atm,TXN843424,39007,KES,Critical,Resolved,23/12/2024,Operations,5
+C00842,CUST31921,28/12/2024,Call Center,Erroneous Deduction,Phantom Debit,Phantom Debit reported via call center,TXN898031,37668,KES,High,Resolved,29/12/2024,IT Operations,5
+C00843,CUST13924,31/12/2024,Branch,Erroneous Deduction,Incorrect Fees,Incorrect Fees reported via branch,TXN904413,35266,KES,High,In Progress,,Operations,
+C00844,CUST11262,10/01/2025,Online Banking,System Error,App Crash,App Crash reported via online banking,,0,KES,Low,Resolved,13/01/2025,Finance Ops,2
+C00845,CUST60540,05/01/2025,Branch,System Error,App Crash,App Crash reported via branch,,0,KES,High,In Progress,,Branch Operations,
+C00846,CUST85228,08/01/2025,Call Center,Delay,Transaction Delay,Transaction Delay reported via call center,,0,KES,High,In Progress,,Operations,
+C00847,CUST45968,28/12/2024,Online Banking,Customer Service Failure,Long Wait Time,Long Wait Time reported via online banking,,0,KES,Medium,In Progress,,Finance Ops,
+C00848,CUST70525,06/01/2025,Call Center,System Error,App Crash,App Crash reported via call center,TXN804675,1893,KES,High,Resolved,11/01/2025,Operations,2
+C00849,CUST46002,11/01/2025,Call Center,Delay,Card Delivery Delay,Card Delivery Delay reported via call center,,0,KES,Medium,Resolved,15/01/2025,IT Operations,4
+C00850,CUST90999,10/01/2025,Call Center,System Error,ATM Failure,ATM Failure reported via call center,TXN929325,20058,KES,High,Resolved,11/01/2025,Operations,4
+C00851,CUST32307,08/01/2025,ATM,Delay,Transaction Delay,Transaction Delay reported via atm,TXN859334,47964,KES,Critical,In Progress,,IT Operations,
+C00852,CUST90314,10/01/2025,Mobile App,Delay,Card Delivery Delay,Card Delivery Delay reported via mobile app,TXN819671,3645,KES,Critical,Resolved,13/01/2025,Operations,4
+C00853,CUST93480,27/12/2024,ATM,Erroneous Deduction,Incorrect Fees,Incorrect Fees reported via atm,,0,KES,High,Resolved,01/01/2025,Finance Ops,5
+C00854,CUST48828,06/01/2025,Branch,Delay,Card Delivery Delay,Card Delivery Delay reported via branch,TXN859200,48397,KES,Critical,Resolved,07/01/2025,Customer Experience,4
+C00855,CUST34630,26/12/2024,Mobile App,System Error,App Crash,App Crash reported via mobile app,,0,KES,Critical,Resolved,30/12/2024,IT Operations,5
+C00856,CUST30184,10/01/2025,Call Center,Delay,Card Delivery Delay,Card Delivery Delay reported via call center,TXN971780,20935,KES,Critical,In Progress,,Branch Operations,
+C00857,CUST62455,18/12/2024,Online Banking,System Error,App Crash,App Crash reported via online banking,,0,KES,Critical,In Progress,,Customer Experience,
+C00858,CUST70404,09/01/2025,Online Banking,System Error,App Crash,App Crash reported via online banking,,0,KES,High,Resolved,11/01/2025,Branch Operations,2
+C00859,CUST75823,05/01/2025,Online Banking,System Error,Login Error,Login Error reported via online banking,TXN855591,23727,KES,Medium,Resolved,07/01/2025,Operations,5
+C00860,CUST62781,10/01/2025,Online Banking,Delay,Complaint Handling Delay,Complaint Handling Delay reported via online banking,TXN850838,48472,KES,Low,Resolved,13/01/2025,Operations,3
+C00861,CUST16964,09/01/2025,Mobile App,System Error,Login Error,Login Error reported via mobile app,,0,KES,High,In Progress,,IT Operations,
+C00862,CUST38821,02/01/2025,Mobile App,Erroneous Deduction,Double Debit,Double Debit reported via mobile app,TXN902736,41146,KES,Medium,Resolved,06/01/2025,Branch Operations,2
+C00863,CUST34258,23/12/2024,ATM,Customer Service Failure,Rude Staff,Rude Staff reported via atm,TXN992382,39579,KES,Medium,Resolved,24/12/2024,Finance Ops,2
+C00864,CUST97298,14/01/2025,ATM,System Error,Failed Reversal,Failed Reversal reported via atm,TXN919332,12777,KES,Medium,Resolved,16/01/2025,Finance Ops,2
+C00865,CUST86435,10/01/2025,Online Banking,Delay,Transaction Delay,Transaction Delay reported via online banking,TXN924211,1137,KES,Medium,In Progress,,IT Operations,
+C00866,CUST29212,08/01/2025,Mobile App,System Error,ATM Failure,ATM Failure reported via mobile app,,0,KES,High,In Progress,,IT Operations,
+C00867,CUST57748,18/12/2024,Online Banking,Erroneous Deduction,Incorrect Fees,Incorrect Fees reported via online banking,TXN973908,36263,KES,High,Resolved,22/12/2024,Customer Experience,4
+C00868,CUST38869,10/01/2025,Call Center,System Error,Failed Reversal,Failed Reversal reported via call center,,0,KES,High,Resolved,12/01/2025,Branch Operations,5
+C00869,CUST59516,19/12/2024,Mobile App,Erroneous Deduction,Phantom Debit,Phantom Debit reported via mobile app,TXN854082,28727,KES,High,Resolved,20/12/2024,Finance Ops,3
+C00870,CUST85958,09/01/2025,Online Banking,System Error,App Crash,App Crash reported via online banking,TXN881087,27847,KES,Critical,Resolved,11/01/2025,Operations,2
+C00871,CUST11092,10/01/2025,Branch,Delay,Complaint Handling Delay,Complaint Handling Delay reported via branch,,0,KES,Critical,In Progress,,Branch Operations,
+C00872,CUST47782,15/01/2025,ATM,Delay,Complaint Handling Delay,Complaint Handling Delay reported via atm,,0,KES,Critical,Resolved,18/01/2025,Branch Operations,5
+C00873,CUST56170,09/01/2025,Mobile App,Delay,Complaint Handling Delay,Complaint Handling Delay reported via mobile app,TXN880169,3986,KES,Medium,Resolved,10/01/2025,Finance Ops,5
+C00874,CUST21272,15/12/2024,ATM,Delay,Complaint Handling Delay,Complaint Handling Delay reported via atm,,0,KES,Critical,In Progress,,Operations,
+C00875,CUST62312,19/12/2024,Call Center,System Error,Login Error,Login Error reported via call center,,0,KES,Medium,Resolved,23/12/2024,IT Operations,5
+C00876,CUST27785,18/12/2024,Call Center,Erroneous Deduction,Phantom Debit,Phantom Debit reported via call center,,0,KES,Medium,Resolved,20/12/2024,Operations,4
+C00877,CUST22588,08/01/2025,Mobile App,System Error,Failed Reversal,Failed Reversal reported via mobile app,,0,KES,High,Resolved,12/01/2025,Operations,5
+C00878,CUST65170,12/01/2025,Branch,System Error,Failed Reversal,Failed Reversal reported via branch,TXN807254,27386,KES,High,Resolved,17/01/2025,Operations,2
+C00879,CUST62814,07/01/2025,Call Center,System Error,App Crash,App Crash reported via call center,TXN814034,37565,KES,Medium,Resolved,11/01/2025,Branch Operations,3
+C00880,CUST22766,29/12/2024,Mobile App,Customer Service Failure,Rude Staff,Rude Staff reported via mobile app,TXN955802,7515,KES,Medium,In Progress,,IT Operations,
+C00881,CUST83668,02/01/2025,Online Banking,Customer Service Failure,No Follow-up,No Follow-up reported via online banking,,0,KES,Medium,Resolved,04/01/2025,IT Operations,3
+C00882,CUST36306,30/12/2024,ATM,System Error,App Crash,App Crash reported via atm,TXN963489,922,KES,High,In Progress,,Operations,
+C00883,CUST61211,05/01/2025,Mobile App,Delay,Card Delivery Delay,Card Delivery Delay reported via mobile app,,0,KES,Low,Resolved,10/01/2025,Branch Operations,5
+C00884,CUST99302,06/01/2025,Branch,System Error,Login Error,Login Error reported via branch,TXN960631,36329,KES,Critical,In Progress,,Finance Ops,
+C00885,CUST32383,15/01/2025,ATM,Delay,Complaint Handling Delay,Complaint Handling Delay reported via atm,,0,KES,Medium,In Progress,,IT Operations,
+C00886,CUST60570,13/01/2025,Branch,Delay,Complaint Handling Delay,Complaint Handling Delay reported via branch,TXN896295,39085,KES,Medium,Resolved,16/01/2025,Operations,5
+C00887,CUST14467,18/12/2024,Branch,Customer Service Failure,Long Wait Time,Long Wait Time reported via branch,TXN802888,37476,KES,Low,Resolved,23/12/2024,Finance Ops,4
+C00888,CUST30750,15/01/2025,Online Banking,System Error,ATM Failure,ATM Failure reported via online banking,,0,KES,High,In Progress,,Finance Ops,
+C00889,CUST70225,13/01/2025,Call Center,Delay,Complaint Handling Delay,Complaint Handling Delay reported via call center,TXN971949,10422,KES,High,Resolved,18/01/2025,Customer Experience,4
+C00890,CUST89408,19/12/2024,Online Banking,Erroneous Deduction,Incorrect Fees,Incorrect Fees reported via online banking,TXN923667,32202,KES,Low,In Progress,,Customer Experience,
+C00891,CUST30863,02/01/2025,Online Banking,Erroneous Deduction,Double Debit,Double Debit reported via online banking,TXN817713,40966,KES,Critical,Resolved,03/01/2025,Branch Operations,2
+C00892,CUST23819,15/01/2025,Branch,Delay,Complaint Handling Delay,Complaint Handling Delay reported via branch,,0,KES,High,In Progress,,Operations,
+C00893,CUST89499,20/12/2024,Mobile App,Customer Service Failure,Long Wait Time,Long Wait Time reported via mobile app,,0,KES,High,Resolved,24/12/2024,IT Operations,4
+C00894,CUST35653,05/01/2025,Mobile App,Delay,Complaint Handling Delay,Complaint Handling Delay reported via mobile app,,0,KES,Medium,In Progress,,Customer Experience,
+C00895,CUST92459,12/01/2025,ATM,System Error,App Crash,App Crash reported via atm,,0,KES,High,Resolved,17/01/2025,Finance Ops,2
+C00896,CUST99438,18/12/2024,ATM,System Error,ATM Failure,ATM Failure reported via atm,,0,KES,Medium,Resolved,21/12/2024,IT Operations,3
+C00897,CUST66034,04/01/2025,ATM,Customer Service Failure,Rude Staff,Rude Staff reported via atm,,0,KES,Critical,Resolved,05/01/2025,Branch Operations,5
+C00898,CUST42949,06/01/2025,Call Center,Delay,Transaction Delay,Transaction Delay reported via call center,TXN805909,3873,KES,Medium,Resolved,08/01/2025,Operations,4
+C00899,CUST81557,10/01/2025,Online Banking,Delay,Transaction Delay,Transaction Delay reported via online banking,TXN904653,34431,KES,High,Resolved,15/01/2025,IT Operations,2
+C00900,CUST81707,18/12/2024,Mobile App,Customer Service Failure,Long Wait Time,Long Wait Time reported via mobile app,,0,KES,Medium,Resolved,20/12/2024,IT Operations,3
+C00901,CUST64557,25/12/2024,Branch,Delay,Transaction Delay,Transaction Delay reported via branch,,0,KES,Critical,Resolved,28/12/2024,IT Operations,2
+C00902,CUST66559,14/01/2025,Branch,Delay,Card Delivery Delay,Card Delivery Delay reported via branch,TXN933065,2833,KES,Medium,Resolved,16/01/2025,Finance Ops,4
+C00903,CUST82416,08/01/2025,Mobile App,Delay,Transaction Delay,Transaction Delay reported via mobile app,,0,KES,High,In Progress,,Finance Ops,
+C00904,CUST67216,11/01/2025,Branch,System Error,App Crash,App Crash reported via branch,TXN892219,8232,KES,High,Resolved,13/01/2025,Customer Experience,4
+C00905,CUST11952,22/12/2024,Call Center,System Error,ATM Failure,ATM Failure reported via call center,,0,KES,Medium,In Progress,,IT Operations,
+C00906,CUST27002,22/12/2024,Mobile App,Delay,Transaction Delay,Transaction Delay reported via mobile app,TXN957919,21086,KES,High,Resolved,24/12/2024,Finance Ops,4
+C00907,CUST58094,12/01/2025,Mobile App,Delay,Card Delivery Delay,Card Delivery Delay reported via mobile app,TXN857746,32935,KES,Medium,Resolved,16/01/2025,IT Operations,4
+C00908,CUST27974,24/12/2024,Online Banking,System Error,Failed Reversal,Failed Reversal reported via online banking,TXN873343,27424,KES,High,Resolved,25/12/2024,Branch Operations,3
+C00909,CUST40815,31/12/2024,Call Center,System Error,Failed Reversal,Failed Reversal reported via call center,,0,KES,Medium,In Progress,,Finance Ops,
+C00910,CUST46581,04/01/2025,Mobile App,Customer Service Failure,Rude Staff,Rude Staff reported via mobile app,TXN878751,39050,KES,Critical,Resolved,05/01/2025,Customer Experience,2
+C00911,CUST96560,27/12/2024,Branch,Customer Service Failure,Rude Staff,Rude Staff reported via branch,,0,KES,High,Resolved,31/12/2024,Customer Experience,2
+C00912,CUST13584,13/01/2025,Call Center,System Error,ATM Failure,ATM Failure reported via call center,,0,KES,Critical,In Progress,,Operations,
+C00913,CUST70752,14/01/2025,Mobile App,System Error,Login Error,Login Error reported via mobile app,TXN940184,44931,KES,High,In Progress,,IT Operations,
+C00914,CUST46791,14/01/2025,Branch,System Error,App Crash,App Crash reported via branch,,0,KES,High,In Progress,,Customer Experience,
+C00915,CUST95594,23/12/2024,Call Center,Delay,Transaction Delay,Transaction Delay reported via call center,TXN894816,40840,KES,Medium,Resolved,26/12/2024,Operations,4
+C00916,CUST12263,03/01/2025,Online Banking,Delay,Transaction Delay,Transaction Delay reported via online banking,TXN921300,12216,KES,High,In Progress,,Branch Operations,
+C00917,CUST18394,12/01/2025,Branch,Delay,Complaint Handling Delay,Complaint Handling Delay reported via branch,TXN959993,5713,KES,Medium,Resolved,17/01/2025,Branch Operations,4
+C00918,CUST95799,09/01/2025,Branch,System Error,Failed Reversal,Failed Reversal reported via branch,,0,KES,Medium,Resolved,11/01/2025,Finance Ops,2
+C00919,CUST80836,15/01/2025,Mobile App,System Error,Failed Reversal,Failed Reversal reported via mobile app,TXN867487,47328,KES,High,Resolved,16/01/2025,Branch Operations,4
+C00920,CUST84758,03/01/2025,Mobile App,System Error,Failed Reversal,Failed Reversal reported via mobile app,,0,KES,High,Resolved,05/01/2025,IT Operations,4
+C00921,CUST48543,15/01/2025,Branch,System Error,ATM Failure,ATM Failure reported via branch,TXN906990,24111,KES,Medium,Resolved,18/01/2025,Operations,5
+C00922,CUST38163,07/01/2025,Online Banking,System Error,ATM Failure,ATM Failure reported via online banking,,0,KES,Critical,Resolved,10/01/2025,Finance Ops,4
+C00923,CUST80643,14/01/2025,ATM,Delay,Card Delivery Delay,Card Delivery Delay reported via atm,,0,KES,High,Resolved,19/01/2025,Customer Experience,5
+C00924,CUST57443,31/12/2024,Branch,Delay,Card Delivery Delay,Card Delivery Delay reported via branch,TXN863970,13281,KES,High,Resolved,03/01/2025,Branch Operations,3
+C00925,CUST56135,10/01/2025,ATM,Delay,Card Delivery Delay,Card Delivery Delay reported via atm,,0,KES,High,In Progress,,Customer Experience,
+C00926,CUST63427,06/01/2025,Call Center,System Error,Login Error,Login Error reported via call center,,0,KES,High,Resolved,11/01/2025,Finance Ops,3
+C00927,CUST92920,19/12/2024,Online Banking,Erroneous Deduction,Phantom Debit,Phantom Debit reported via online banking,,0,KES,Medium,Resolved,24/12/2024,Operations,5
+C00928,CUST14466,21/12/2024,Mobile App,System Error,Login Error,Login Error reported via mobile app,TXN994734,36844,KES,Medium,Resolved,22/12/2024,Finance Ops,3
+C00929,CUST62732,15/12/2024,ATM,System Error,ATM Failure,ATM Failure reported via atm,TXN833411,28179,KES,Critical,In Progress,,Branch Operations,
+C00930,CUST68837,22/12/2024,Online Banking,Erroneous Deduction,Double Debit,Double Debit reported via online banking,,0,KES,High,Resolved,23/12/2024,Operations,4
+C00931,CUST87274,04/01/2025,Branch,Customer Service Failure,No Follow-up,No Follow-up reported via branch,,0,KES,High,In Progress,,Operations,
+C00932,CUST76672,31/12/2024,Mobile App,Delay,Transaction Delay,Transaction Delay reported via mobile app,TXN884000,30222,KES,High,Resolved,04/01/2025,Branch Operations,3
+C00933,CUST51756,23/12/2024,Online Banking,Delay,Transaction Delay,Transaction Delay reported via online banking,TXN874778,34919,KES,Medium,Resolved,26/12/2024,Customer Experience,5
+C00934,CUST31704,19/12/2024,ATM,Delay,Card Delivery Delay,Card Delivery Delay reported via atm,TXN826074,40835,KES,High,Resolved,22/12/2024,Customer Experience,4
+C00935,CUST40366,09/01/2025,ATM,System Error,Login Error,Login Error reported via atm,,0,KES,Medium,In Progress,,Finance Ops,
+C00936,CUST13378,19/12/2024,Call Center,Delay,Transaction Delay,Transaction Delay reported via call center,,0,KES,High,Resolved,20/12/2024,Branch Operations,5
+C00937,CUST74651,09/01/2025,Call Center,System Error,Login Error,Login Error reported via call center,,0,KES,Critical,Resolved,13/01/2025,Finance Ops,5
+C00938,CUST46190,07/01/2025,Online Banking,System Error,ATM Failure,ATM Failure reported via online banking,TXN841085,5372,KES,High,Resolved,12/01/2025,IT Operations,4
+C00939,CUST83160,13/01/2025,Online Banking,Delay,Card Delivery Delay,Card Delivery Delay reported via online banking,TXN849911,34663,KES,High,In Progress,,IT Operations,
+C00940,CUST29848,04/01/2025,Mobile App,Delay,Card Delivery Delay,Card Delivery Delay reported via mobile app,,0,KES,Medium,Resolved,07/01/2025,Finance Ops,5
+C00941,CUST18816,07/01/2025,ATM,System Error,Failed Reversal,Failed Reversal reported via atm,,0,KES,High,Resolved,08/01/2025,Finance Ops,5
+C00942,CUST79528,14/01/2025,ATM,Delay,Card Delivery Delay,Card Delivery Delay reported via atm,,0,KES,High,Resolved,17/01/2025,IT Operations,5
+C00943,CUST22652,20/12/2024,Online Banking,Erroneous Deduction,Double Debit,Double Debit reported via online banking,TXN942452,39680,KES,High,Resolved,24/12/2024,Customer Experience,4
+C00944,CUST62178,09/01/2025,Online Banking,System Error,Login Error,Login Error reported via online banking,TXN973175,30956,KES,High,Resolved,10/01/2025,Finance Ops,4
+C00945,CUST44289,30/12/2024,Branch,Customer Service Failure,No Follow-up,No Follow-up reported via branch,TXN815939,14597,KES,Low,Resolved,04/01/2025,Finance Ops,4
+C00946,CUST50437,28/12/2024,Branch,Customer Service Failure,Long Wait Time,Long Wait Time reported via branch,,0,KES,Medium,Resolved,31/12/2024,Customer Experience,2
+C00947,CUST12767,08/01/2025,ATM,Delay,Card Delivery Delay,Card Delivery Delay reported via atm,,0,KES,Critical,Resolved,13/01/2025,IT Operations,2
+C00948,CUST40059,17/12/2024,Call Center,Erroneous Deduction,Phantom Debit,Phantom Debit reported via call center,,0,KES,High,Resolved,19/12/2024,IT Operations,5
+C00949,CUST75732,07/01/2025,Branch,System Error,Failed Reversal,Failed Reversal reported via branch,,0,KES,High,Resolved,08/01/2025,Finance Ops,2
+C00950,CUST26206,12/01/2025,Online Banking,Delay,Transaction Delay,Transaction Delay reported via online banking,,0,KES,Low,Resolved,13/01/2025,Operations,4
+C00951,CUST22524,27/12/2024,Online Banking,Customer Service Failure,Rude Staff,Rude Staff reported via online banking,TXN805283,46603,KES,Low,Resolved,28/12/2024,IT Operations,3
+C00952,CUST95989,27/12/2024,Online Banking,System Error,Failed Reversal,Failed Reversal reported via online banking,TXN853127,18460,KES,High,Resolved,28/12/2024,Customer Experience,4
+C00953,CUST60123,11/01/2025,Mobile App,System Error,Login Error,Login Error reported via mobile app,TXN984255,32176,KES,Critical,Resolved,16/01/2025,Finance Ops,3
+C00954,CUST72495,12/01/2025,Call Center,System Error,Failed Reversal,Failed Reversal reported via call center,TXN860847,2131,KES,High,Resolved,16/01/2025,IT Operations,4
+C00955,CUST62847,15/01/2025,ATM,System Error,Failed Reversal,Failed Reversal reported via atm,,0,KES,Low,Resolved,16/01/2025,IT Operations,3
+C00956,CUST52132,12/01/2025,Branch,Delay,Transaction Delay,Transaction Delay reported via branch,,0,KES,High,In Progress,,Operations,
+C00957,CUST95460,03/01/2025,Online Banking,Customer Service Failure,Rude Staff,Rude Staff reported via online banking,TXN882055,36255,KES,High,In Progress,,Finance Ops,
+C00958,CUST31783,12/01/2025,Mobile App,System Error,ATM Failure,ATM Failure reported via mobile app,,0,KES,High,Resolved,17/01/2025,Customer Experience,2
+C00959,CUST25411,06/01/2025,Branch,Delay,Complaint Handling Delay,Complaint Handling Delay reported via branch,TXN904701,9666,KES,High,Resolved,07/01/2025,Finance Ops,4
+C00960,CUST78076,09/01/2025,Call Center,System Error,Failed Reversal,Failed Reversal reported via call center,,0,KES,High,Resolved,14/01/2025,Operations,4
+C00961,CUST51640,12/01/2025,Online Banking,System Error,App Crash,App Crash reported via online banking,,0,KES,Medium,In Progress,,Finance Ops,
+C00962,CUST91916,07/01/2025,Mobile App,System Error,ATM Failure,ATM Failure reported via mobile app,TXN886778,6650,KES,High,Resolved,08/01/2025,Operations,2
+C00963,CUST58139,07/01/2025,Call Center,Delay,Complaint Handling Delay,Complaint Handling Delay reported via call center,TXN874498,13124,KES,Medium,Resolved,11/01/2025,Finance Ops,4
+C00964,CUST44463,11/01/2025,Mobile App,System Error,App Crash,App Crash reported via mobile app,,0,KES,Medium,In Progress,,Branch Operations,
+C00965,CUST32033,07/01/2025,Call Center,System Error,Failed Reversal,Failed Reversal reported via call center,TXN854868,48817,KES,High,In Progress,,Branch Operations,
+C00966,CUST77070,08/01/2025,Call Center,Delay,Transaction Delay,Transaction Delay reported via call center,TXN820391,516,KES,Medium,Resolved,09/01/2025,Finance Ops,3
+C00967,CUST50863,28/12/2024,Online Banking,Customer Service Failure,Long Wait Time,Long Wait Time reported via online banking,TXN901064,26271,KES,High,Resolved,01/01/2025,Branch Operations,4
+C00968,CUST67310,25/12/2024,ATM,Delay,Card Delivery Delay,Card Delivery Delay reported via atm,,0,KES,Critical,In Progress,,Finance Ops,
+C00969,CUST38020,12/01/2025,Call Center,System Error,ATM Failure,ATM Failure reported via call center,TXN975646,24465,KES,High,Resolved,15/01/2025,Customer Experience,5
+C00970,CUST53050,08/01/2025,ATM,System Error,Failed Reversal,Failed Reversal reported via atm,,0,KES,Medium,Resolved,13/01/2025,IT Operations,4
+C00971,CUST91955,10/01/2025,Call Center,System Error,ATM Failure,ATM Failure reported via call center,TXN811512,31874,KES,Low,Resolved,13/01/2025,Operations,4
+C00972,CUST13779,14/01/2025,Branch,Delay,Card Delivery Delay,Card Delivery Delay reported via branch,,0,KES,High,Resolved,15/01/2025,Branch Operations,4
+C00973,CUST81314,07/01/2025,Mobile App,Delay,Transaction Delay,Transaction Delay reported via mobile app,,0,KES,Critical,Resolved,10/01/2025,Customer Experience,2
+C00974,CUST97519,08/01/2025,Online Banking,Delay,Complaint Handling Delay,Complaint Handling Delay reported via online banking,,0,KES,Critical,Resolved,12/01/2025,Finance Ops,5
+C00975,CUST32671,17/12/2024,Online Banking,System Error,App Crash,App Crash reported via online banking,,0,KES,Medium,Resolved,22/12/2024,IT Operations,5
+C00976,CUST21555,05/01/2025,Call Center,System Error,Failed Reversal,Failed Reversal reported via call center,,0,KES,Medium,Resolved,10/01/2025,Operations,5
+C00977,CUST93616,06/01/2025,Mobile App,Delay,Card Delivery Delay,Card Delivery Delay reported via mobile app,,0,KES,Medium,Resolved,07/01/2025,Finance Ops,3
+C00978,CUST84060,06/01/2025,ATM,Delay,Complaint Handling Delay,Complaint Handling Delay reported via atm,,0,KES,Medium,Resolved,09/01/2025,Finance Ops,3
+C00979,CUST85850,08/01/2025,ATM,Delay,Complaint Handling Delay,Complaint Handling Delay reported via atm,TXN824225,29309,KES,Critical,Resolved,12/01/2025,Finance Ops,4
+C00980,CUST54850,15/01/2025,Mobile App,System Error,App Crash,App Crash reported via mobile app,TXN890943,14305,KES,Medium,Resolved,18/01/2025,Branch Operations,3
+C00981,CUST72286,31/12/2024,Call Center,Erroneous Deduction,Double Debit,Double Debit reported via call center,,0,KES,Medium,Resolved,05/01/2025,Finance Ops,3
+C00982,CUST92506,14/01/2025,Call Center,System Error,Failed Reversal,Failed Reversal reported via call center,,0,KES,High,In Progress,,Customer Experience,
+C00983,CUST31331,05/01/2025,Branch,Delay,Complaint Handling Delay,Complaint Handling Delay reported via branch,TXN880288,12762,KES,Medium,In Progress,,Operations,
+C00984,CUST58918,07/01/2025,Call Center,Delay,Complaint Handling Delay,Complaint Handling Delay reported via call center,TXN924144,48403,KES,High,Resolved,09/01/2025,Customer Experience,4
+C00985,CUST65179,12/01/2025,Mobile App,System Error,Failed Reversal,Failed Reversal reported via mobile app,,0,KES,High,In Progress,,Finance Ops,
+C00986,CUST27025,09/01/2025,ATM,System Error,ATM Failure,ATM Failure reported via atm,,0,KES,Medium,Resolved,14/01/2025,Branch Operations,3
+C00987,CUST49489,16/12/2024,ATM,Delay,Complaint Handling Delay,Complaint Handling Delay reported via atm,,0,KES,High,Resolved,18/12/2024,Operations,3
+C00988,CUST55182,07/01/2025,Branch,Delay,Transaction Delay,Transaction Delay reported via branch,TXN801296,36895,KES,High,Resolved,11/01/2025,IT Operations,3
+C00989,CUST51727,13/01/2025,Branch,System Error,App Crash,App Crash reported via branch,TXN833686,6779,KES,Critical,In Progress,,Customer Experience,
+C00990,CUST39057,19/12/2024,Online Banking,Customer Service Failure,Long Wait Time,Long Wait Time reported via online banking,TXN975604,23232,KES,High,Resolved,24/12/2024,Customer Experience,2
+C00991,CUST75529,20/12/2024,Online Banking,System Error,Failed Reversal,Failed Reversal reported via online banking,TXN820255,39767,KES,High,Resolved,22/12/2024,Operations,3
+C00992,CUST14564,08/01/2025,Mobile App,System Error,Login Error,Login Error reported via mobile app,TXN881550,10379,KES,Medium,Resolved,12/01/2025,Operations,5
+C00993,CUST11602,11/01/2025,Branch,Delay,Transaction Delay,Transaction Delay reported via branch,TXN979847,5915,KES,Critical,Resolved,12/01/2025,Branch Operations,5
+C00994,CUST43901,07/01/2025,Mobile App,System Error,Login Error,Login Error reported via mobile app,,0,KES,High,Resolved,10/01/2025,Customer Experience,5
+C00995,CUST33440,18/12/2024,Online Banking,Customer Service Failure,No Follow-up,No Follow-up reported via online banking,,0,KES,High,In Progress,,Customer Experience,
+C00996,CUST77488,01/01/2025,Mobile App,Customer Service Failure,No Follow-up,No Follow-up reported via mobile app,TXN851803,46870,KES,Low,In Progress,,Finance Ops,
+C00997,CUST88555,29/12/2024,Branch,Customer Service Failure,Rude Staff,Rude Staff reported via branch,TXN813126,30662,KES,Low,In Progress,,Operations,
+C00998,CUST49017,23/12/2024,Online Banking,Customer Service Failure,Long Wait Time,Long Wait Time reported via online banking,TXN804592,23888,KES,High,Resolved,27/12/2024,IT Operations,4
+C00999,CUST92958,14/01/2025,Mobile App,Delay,Complaint Handling Delay,Complaint Handling Delay reported via mobile app,,0,KES,High,Resolved,16/01/2025,Branch Operations,3
+C01000,CUST20031,09/01/2025,Call Center,System Error,Login Error,Login Error reported via call center,TXN810653,48517,KES,Critical,In Progress,,Finance Ops,
